@@ -1,8 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Character.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Character.cs">
     <Files>
-      <File FileName="Assets\Script\Character.js" Line="15" Column="46" />
+      <File FileName="Assets\Script\Character.cs" Line="110" Column="2" />
+      <File FileName="Assets\GameObjects\Xu\Scripts\Coin.cs" Line="52" Column="3" />
+      <File FileName="Assets\Script\JoyStick.cs" Line="26" Column="2" />
+      <File FileName="Assets\Script\MainMenuController.cs" Line="11" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
