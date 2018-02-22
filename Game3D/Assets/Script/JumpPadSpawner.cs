@@ -8,8 +8,12 @@ public class JumpPadSpawner : MonoBehaviour {
 		listJump  = new JumpPad[500];
 		size = 0;
 	}
-	// Update is called once per frame
-	void Update () {
+
+	void Start () {
+		StartCoroutine (iEUp());
+	}
+
+	IEnumerator iEUp(){
 		Vector3 chac = Character.instance.transform.localPosition;
 		//Debug.Log (chac.z);
 		for (int i = 0; i < size; i++) {
@@ -19,7 +23,7 @@ public class JumpPadSpawner : MonoBehaviour {
 					listJump [i].hide();
 					//Debug.Log (1);
 				}
-				else if (jump.z - chac.z  < 50) { // phia truoc
+				else if (jump.z - chac.z  < GameManager.seeFar) { // phia truoc
 					listJump [i].appear();
 					//Debug.Log (2);
 				}
@@ -29,7 +33,10 @@ public class JumpPadSpawner : MonoBehaviour {
 				}
 			}
 		}
+		yield return new WaitForSeconds (GameManager.loopTimeOpt);
+		StartCoroutine (iEUp());
 	}
+
 
 	public static void add(JumpPad c){
 		listJump [size++] = c;

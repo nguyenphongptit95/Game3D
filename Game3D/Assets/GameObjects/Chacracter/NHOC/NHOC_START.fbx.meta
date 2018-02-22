@@ -1,0 +1,2156 @@
+fileFormatVersion: 2
+guid: 10716b0c8ad89a14fa618e6e4c52aff1
+timeCreated: 1517680590
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Nhoc2:Ao
+    100002: Nhoc2:back
+    100004: Nhoc2:BanTay:left
+    100006: Nhoc2:bottom
+    100008: Nhoc2:C_BangDieuKhienMat
+    100010: Nhoc2:Chan:C_Mat
+    100012: Nhoc2:Chan:C_Mieng
+    100014: Nhoc2:Chan:Char_A_1
+    100016: Nhoc2:Chan:Char_B_1
+    100018: Nhoc2:Chan:Char_B_2
+    100020: Nhoc2:Chan:Char_E_1
+    100022: Nhoc2:Chan:Char_E_2
+    100024: Nhoc2:Chan:Char_E_4
+    100026: Nhoc2:Chan:Char_E_6
+    100028: Nhoc2:Chan:Char_E_7
+    100030: Nhoc2:Chan:Char_E_8
+    100032: Nhoc2:Chan:Char_G_1
+    100034: Nhoc2:Chan:Char_H_1
+    100036: Nhoc2:Chan:Char_I_1
+    100038: Nhoc2:Chan:Char_I_2
+    100040: Nhoc2:Chan:Char_K_1
+    100042: Nhoc2:Chan:Char_L_1
+    100044: Nhoc2:Chan:Char_L_2
+    100046: Nhoc2:Chan:Char_M_1
+    100048: Nhoc2:Chan:Char_M_2
+    100050: Nhoc2:Chan:Char_N_2
+    100052: Nhoc2:Chan:Char_N_3
+    100054: Nhoc2:Chan:Char_O_1
+    100056: Nhoc2:Chan:Char_O_2
+    100058: Nhoc2:Chan:Char_O_4
+    100060: Nhoc2:Chan:Char_O_5
+    100062: Nhoc2:Chan:Char_O_6
+    100064: Nhoc2:Chan:Char_P_1
+    100066: Nhoc2:Chan:Char_R_2
+    100068: Nhoc2:Chan:Char_S_1
+    100070: Nhoc2:Chan:Char_S_2
+    100072: Nhoc2:Chan:Char_S_3
+    100074: Nhoc2:Chan:Char_S_4
+    100076: Nhoc2:Chan:Char_T_1
+    100078: Nhoc2:Chan:Char_T_2
+    100080: Nhoc2:Chan:Char_U_1
+    100082: Nhoc2:Chan:Char_U_3
+    100084: Nhoc2:Chan:Char_V_2
+    100086: Nhoc2:Chan:Char_W_1
+    100088: Nhoc2:Chan:Char_Y_1
+    100090: Nhoc2:Chan:Ctr_MatPhaiTrenl_Scroll
+    100092: Nhoc2:Chan:Ctrl_LeLuoiLen
+    100094: Nhoc2:Chan:Ctrl_LeLuoiTren_Scroll
+    100096: Nhoc2:Chan:Ctrl_LeLuoiXuong
+    100098: Nhoc2:Chan:Ctrl_LeLuoiXuong_Scroll
+    100100: Nhoc2:Chan:Ctrl_MatPhai_Tren
+    100102: Nhoc2:Chan:Ctrl_MatPhaiDuoi
+    100104: Nhoc2:Chan:Ctrl_MatPhaiDuoi_Scroll
+    100106: Nhoc2:Chan:Ctrl_MatTrai_Tren
+    100108: Nhoc2:Chan:Ctrl_MatTraiDuoi_Scroll
+    100110: Nhoc2:Chan:Ctrl_MatTraiiDuoi
+    100112: Nhoc2:Chan:Ctrl_MatTraiTren_Scroll
+    100114: Nhoc2:Chan:Ctrl_Mieng_Duoi_Scroll
+    100116: Nhoc2:Chan:Ctrl_MoiDuoi
+    100118: Nhoc2:Chan:Ctrl_MoiTren
+    100120: Nhoc2:Chan:Ctrl_MoiTren_Scroll
+    100122: Nhoc2:Chan:Ctrl_Mui_Scroll
+    100124: Nhoc2:Chan:Ctrl_Muoi
+    100126: Nhoc2:Chan:Ctrl_NhechMep
+    100128: Nhoc2:Chan:Ctrl_NhechMep_Scroll
+    100130: Nhoc2:Chan:curve10
+    100132: Nhoc2:Chan:curve11
+    100134: Nhoc2:Chan:curve12
+    100136: Nhoc2:Chan:curve13
+    100138: Nhoc2:Chan:curve21
+    100140: Nhoc2:Chan:curve22
+    100142: Nhoc2:Chan:curve23
+    100144: Nhoc2:Chan:curve24
+    100146: Nhoc2:Chan:curve25
+    100148: Nhoc2:Chan:curve26
+    100150: Nhoc2:Chan:curve27
+    100152: Nhoc2:Chan:curve28
+    100154: Nhoc2:Chan:curve29
+    100156: Nhoc2:Chan:curve3
+    100158: Nhoc2:Chan:curve30
+    100160: Nhoc2:Chan:curve31
+    100162: Nhoc2:Chan:curve32
+    100164: Nhoc2:Chan:curve33
+    100166: Nhoc2:Chan:curve34
+    100168: Nhoc2:Chan:curve35
+    100170: Nhoc2:Chan:curve36
+    100172: Nhoc2:Chan:curve37
+    100174: Nhoc2:Chan:curve38
+    100176: Nhoc2:Chan:curve39
+    100178: Nhoc2:Chan:curve4
+    100180: Nhoc2:Chan:curve40
+    100182: Nhoc2:Chan:curve41
+    100184: Nhoc2:Chan:curve42
+    100186: Nhoc2:Chan:curve43
+    100188: Nhoc2:Chan:curve44
+    100190: Nhoc2:Chan:curve45
+    100192: Nhoc2:Chan:curve46
+    100194: Nhoc2:Chan:curve47
+    100196: Nhoc2:Chan:curve48
+    100198: Nhoc2:Chan:curve49
+    100200: Nhoc2:Chan:curve5
+    100202: Nhoc2:Chan:curve50
+    100204: Nhoc2:Chan:curve51
+    100206: Nhoc2:Chan:curve52
+    100208: Nhoc2:Chan:curve53
+    100210: Nhoc2:Chan:curve54
+    100212: Nhoc2:Chan:curve55
+    100214: Nhoc2:Chan:curve56
+    100216: Nhoc2:Chan:curve57
+    100218: Nhoc2:Chan:curve58
+    100220: Nhoc2:Chan:curve59
+    100222: Nhoc2:Chan:curve6
+    100224: Nhoc2:Chan:curve60
+    100226: Nhoc2:Chan:curve8
+    100228: Nhoc2:Chan:curve9
+    100230: Nhoc2:Chan:Text_ABOVE_1
+    100232: Nhoc2:Chan:Text_BELOW_1
+    100234: Nhoc2:Chan:Text_EYES_1
+    100236: Nhoc2:Chan:Text_LIPS_1
+    100238: Nhoc2:Chan:Text_MOUTH_1
+    100240: Nhoc2:Chan:Text_NOSE_1
+    100242: Nhoc2:Chan:Text_SMIRK_1
+    100244: Nhoc2:Chan:Text_TONGUE_1
+    100246: Nhoc2:DotSongLung
+    100248: Nhoc2:DotSongLung2
+    100250: Nhoc2:DotSongLung3
+    100252: Nhoc2:DotSongLung4
+    100254: Nhoc2:DotSongLung5
+    100256: Nhoc2:G_DieuKhienKhop
+    100258: Nhoc2:G_DK_BanTayPhai
+    100260: Nhoc2:G_DK_BanTayTrai
+    100262: Nhoc2:G_DK_Ham
+    100264: Nhoc2:G_LongMi
+    100266: Nhoc2:G_LongMi_Phai
+    100268: Nhoc2:G_LongMi_Phai_Duoi
+    100270: Nhoc2:G_LongMi_Phai_Tren
+    100272: Nhoc2:G_LongMi_Trai
+    100274: Nhoc2:G_LongMi_Trai_Tren
+    100276: Nhoc2:G_LongMi_Trai_Tren1
+    100278: Nhoc2:G_Mat
+    100280: Nhoc2:G_MatPhai
+    100282: Nhoc2:G_MatTrai
+    100284: Nhoc2:G_Rang
+    100286: Nhoc2:G_Sharp
+    100288: Nhoc2:G_Toc
+    100290: Nhoc2:G_Vai
+    100292: Nhoc2:Hong
+    100294: Nhoc2:ikHandle3
+    100296: Nhoc2:ikHandle4
+    100298: Nhoc2:ikHandle5
+    100300: Nhoc2:ikHandle6
+    100302: Nhoc2:jBanChanTrai
+    100304: Nhoc2:jBanTayPhai
+    100306: Nhoc2:jBanTayTrai
+    100308: Nhoc2:jChanPhai
+    100310: Nhoc2:jChanTrai
+    100312: Nhoc2:jChoTayPhai
+    100314: Nhoc2:jChoTayTrai
+    100316: Nhoc2:jDotSong2
+    100318: Nhoc2:jDotSong3
+    100320: Nhoc2:jDotSong4
+    100322: Nhoc2:jGoiChanTrai
+    100324: Nhoc2:jGoiPhai
+    100326: Nhoc2:jGotChanPhai
+    100328: Nhoc2:jGotChanTrai
+    100330: Nhoc2:jHamDuoi
+    100332: Nhoc2:jHamTren
+    100334: Nhoc2:jNgonChanCaiPhai1
+    100336: Nhoc2:jNgonChanCaiPhai2
+    100338: Nhoc2:jNgonChanCaiPhai3
+    100340: Nhoc2:jNgonChanCaiTrai1
+    100342: Nhoc2:jNgonChanCaiTrai2
+    100344: Nhoc2:jNgonChanCaiTrai3
+    100346: Nhoc2:jNgonChanDanhPhai1
+    100348: Nhoc2:jNgonChanDanhPhai2
+    100350: Nhoc2:jNgonChanDanhPhai3
+    100352: Nhoc2:jNgonChanDanhPhai4
+    100354: Nhoc2:jNgonChanDanhTrai1
+    100356: Nhoc2:jNgonChanDanhTrai2
+    100358: Nhoc2:jNgonChanDanhTrai3
+    100360: Nhoc2:jNgonChanDanhTrai4
+    100362: Nhoc2:jNgonChanGiuaPhai1
+    100364: Nhoc2:jNgonChanGiuaPhai2
+    100366: Nhoc2:jNgonChanGiuaPhai3
+    100368: Nhoc2:jNgonChanGiuaPhai4
+    100370: Nhoc2:jNgonChanGiuaTrai1
+    100372: Nhoc2:jNgonChanGiuaTrai2
+    100374: Nhoc2:jNgonChanGiuaTrai3
+    100376: Nhoc2:jNgonChanGiuaTrai4
+    100378: Nhoc2:jNgonChanTroPhai1
+    100380: Nhoc2:jNgonChanTroPhai2
+    100382: Nhoc2:jNgonChanTroPhai3
+    100384: Nhoc2:jNgonChanTroPhai4
+    100386: Nhoc2:jNgonChanTroTrai1
+    100388: Nhoc2:jNgonChanTroTrai2
+    100390: Nhoc2:jNgonChanTroTrai3
+    100392: Nhoc2:jNgonChanTroTrai4
+    100394: Nhoc2:jNgonChanUtPhai1
+    100396: Nhoc2:jNgonChanUtPhai2
+    100398: Nhoc2:jNgonChanUtPhai3
+    100400: Nhoc2:jNgonChanUtPhai4
+    100402: Nhoc2:jNgonChanUtTrai1
+    100404: Nhoc2:jNgonChanUtTrai2
+    100406: Nhoc2:jNgonChanUtTrai3
+    100408: Nhoc2:jNgonChanUtTrai4
+    100410: Nhoc2:jNgonTayCaiPhai1
+    100412: Nhoc2:jNgonTayCaiPhai2
+    100414: Nhoc2:jNgonTayCaiPhai3
+    100416: Nhoc2:jNgonTayCaiPhai4
+    100418: Nhoc2:jNgonTayCaiTrai1
+    100420: Nhoc2:jNgonTayCaiTrai2
+    100422: Nhoc2:jNgonTayCaiTrai3
+    100424: Nhoc2:jNgonTayCaiTrai4
+    100426: Nhoc2:jNgonTayDanhPhai1
+    100428: Nhoc2:jNgonTayDanhPhai2
+    100430: Nhoc2:jNgonTayDanhPhai3
+    100432: Nhoc2:jNgonTayDanhPhai4
+    100434: Nhoc2:jNgonTayDanhTrai1
+    100436: Nhoc2:jNgonTayDanhTrai2
+    100438: Nhoc2:jNgonTayDanhTrai3
+    100440: Nhoc2:jNgonTayDanhTrai4
+    100442: Nhoc2:jNgonTayGiuaPhai1
+    100444: Nhoc2:jNgonTayGiuaPhai2
+    100446: Nhoc2:jNgonTayGiuaPhai3
+    100448: Nhoc2:jNgonTayGiuaPhai4
+    100450: Nhoc2:jNgonTayGiuaTrai1
+    100452: Nhoc2:jNgonTayGiuaTrai2
+    100454: Nhoc2:jNgonTayGiuaTrai3
+    100456: Nhoc2:jNgonTayGiuaTrai4
+    100458: Nhoc2:jNgonTayTroPhai1
+    100460: Nhoc2:jNgonTayTroPhai2
+    100462: Nhoc2:jNgonTayTroPhai3
+    100464: Nhoc2:jNgonTayTroPhai4
+    100466: Nhoc2:jNgonTayTroTrai1
+    100468: Nhoc2:jNgonTayTroTrai2
+    100470: Nhoc2:jNgonTayTroTrai3
+    100472: Nhoc2:jNgonTayTroTrai4
+    100474: Nhoc2:jNgonTayUtPhai1
+    100476: Nhoc2:jNgonTayUtPhai2
+    100478: Nhoc2:jNgonTayUtPhai3
+    100480: Nhoc2:jNgonTayUtPhai4
+    100482: Nhoc2:jNgonTayUtTrai1
+    100484: Nhoc2:jNgonTayUtTrai2
+    100486: Nhoc2:jNgonTayUtTrai3
+    100488: Nhoc2:jNgonTayUtTrai4
+    100490: Nhoc2:joint37
+    100492: Nhoc2:joint8
+    100494: Nhoc2:jTraiPhai
+    100496: Nhoc2:jTraiTrai
+    100498: Nhoc2:jXuong
+    100500: Nhoc2:jXuongCo
+    100502: Nhoc2:jXuongHam
+    100504: Nhoc2:jXuongVai
+    100506: Nhoc2:left
+    100508: Nhoc2:lt_KhopGoiTrai
+    100510: Nhoc2:lt_KhopGoiTrai1
+    100512: Nhoc2:lt_KhopGoiTrai2
+    100514: Nhoc2:lt_KhopGoiTrai3
+    100516: Nhoc2:MainMove
+    100518: Nhoc2:mv_BanChanPhai
+    100520: Nhoc2:mv_BanChanTrai
+    100522: Nhoc2:mv_BanTayPhai
+    100524: Nhoc2:mv_BanTayTrai
+    100526: Nhoc2:mv_HamDuoi
+    100528: Nhoc2:mv_HamTren
+    100530: Nhoc2:pCylinder1
+    100532: Nhoc2:pCylinder1 1
+    100534: Nhoc2:pCylinder1 2
+    100536: Nhoc2:pCylinder1 3
+    100538: Nhoc2:pCylinder10
+    100540: Nhoc2:pCylinder10 1
+    100542: Nhoc2:pCylinder10 2
+    100544: Nhoc2:pCylinder10 3
+    100546: Nhoc2:pCylinder11
+    100548: Nhoc2:pCylinder11 1
+    100550: Nhoc2:pCylinder11 2
+    100552: Nhoc2:pCylinder11 3
+    100554: Nhoc2:pCylinder12
+    100556: Nhoc2:pCylinder12 1
+    100558: Nhoc2:pCylinder12 2
+    100560: Nhoc2:pCylinder12 3
+    100562: Nhoc2:pCylinder13
+    100564: Nhoc2:pCylinder13 1
+    100566: Nhoc2:pCylinder13 2
+    100568: Nhoc2:pCylinder13 3
+    100570: Nhoc2:pCylinder14
+    100572: Nhoc2:pCylinder14 1
+    100574: Nhoc2:pCylinder14 2
+    100576: Nhoc2:pCylinder14 3
+    100578: Nhoc2:pCylinder15
+    100580: Nhoc2:pCylinder15 1
+    100582: Nhoc2:pCylinder15 2
+    100584: Nhoc2:pCylinder15 3
+    100586: Nhoc2:pCylinder16
+    100588: Nhoc2:pCylinder16 1
+    100590: Nhoc2:pCylinder16 2
+    100592: Nhoc2:pCylinder16 3
+    100594: Nhoc2:pCylinder17
+    100596: Nhoc2:pCylinder17 1
+    100598: Nhoc2:pCylinder17 2
+    100600: Nhoc2:pCylinder17 3
+    100602: Nhoc2:pCylinder18
+    100604: Nhoc2:pCylinder18 1
+    100606: Nhoc2:pCylinder18 2
+    100608: Nhoc2:pCylinder18 3
+    100610: Nhoc2:pCylinder19
+    100612: Nhoc2:pCylinder19 1
+    100614: Nhoc2:pCylinder19 2
+    100616: Nhoc2:pCylinder19 3
+    100618: Nhoc2:pCylinder2
+    100620: Nhoc2:pCylinder2 1
+    100622: Nhoc2:pCylinder2 2
+    100624: Nhoc2:pCylinder2 3
+    100626: Nhoc2:pCylinder20
+    100628: Nhoc2:pCylinder20 1
+    100630: Nhoc2:pCylinder20 2
+    100632: Nhoc2:pCylinder20 3
+    100634: Nhoc2:pCylinder21
+    100636: Nhoc2:pCylinder21 1
+    100638: Nhoc2:pCylinder21 2
+    100640: Nhoc2:pCylinder21 3
+    100642: Nhoc2:pCylinder22
+    100644: Nhoc2:pCylinder22 1
+    100646: Nhoc2:pCylinder22 2
+    100648: Nhoc2:pCylinder22 3
+    100650: Nhoc2:pCylinder23
+    100652: Nhoc2:pCylinder23 1
+    100654: Nhoc2:pCylinder23 2
+    100656: Nhoc2:pCylinder23 3
+    100658: Nhoc2:pCylinder3
+    100660: Nhoc2:pCylinder3 1
+    100662: Nhoc2:pCylinder3 2
+    100664: Nhoc2:pCylinder3 3
+    100666: Nhoc2:pCylinder4
+    100668: Nhoc2:pCylinder4 1
+    100670: Nhoc2:pCylinder4 2
+    100672: Nhoc2:pCylinder4 3
+    100674: Nhoc2:pCylinder5
+    100676: Nhoc2:pCylinder5 1
+    100678: Nhoc2:pCylinder5 2
+    100680: Nhoc2:pCylinder5 3
+    100682: Nhoc2:pCylinder6
+    100684: Nhoc2:pCylinder6 1
+    100686: Nhoc2:pCylinder6 2
+    100688: Nhoc2:pCylinder6 3
+    100690: Nhoc2:pCylinder7
+    100692: Nhoc2:pCylinder7 1
+    100694: Nhoc2:pCylinder7 2
+    100696: Nhoc2:pCylinder7 3
+    100698: Nhoc2:pCylinder8
+    100700: Nhoc2:pCylinder8 1
+    100702: Nhoc2:pCylinder8 2
+    100704: Nhoc2:pCylinder8 3
+    100706: Nhoc2:pCylinder9
+    100708: Nhoc2:pCylinder9 1
+    100710: Nhoc2:pCylinder9 2
+    100712: Nhoc2:pCylinder9 3
+    100714: Nhoc2:persp1
+    100716: Nhoc2:pSphere18
+    100718: Nhoc2:pSphere2
+    100720: Nhoc2:pSphere20
+    100722: Nhoc2:pSphere21
+    100724: Nhoc2:pSphere22
+    100726: Nhoc2:pSphere23
+    100728: Nhoc2:pSphere24
+    100730: Nhoc2:pSphere27
+    100732: Nhoc2:pSphere28
+    100734: Nhoc2:pSphere29
+    100736: Nhoc2:pSphere3
+    100738: Nhoc2:pSphere30
+    100740: Nhoc2:pSphere31
+    100742: Nhoc2:pSphere32
+    100744: Nhoc2:pSphere4
+    100746: Nhoc2:pSphere6
+    100748: Nhoc2:pSphere9
+    100750: Nhoc2:Rang4:Rang_copy001:Group10
+    100752: Nhoc2:Rang4:Rang_copy001:Group11
+    100754: Nhoc2:Rang4:Rang_copy001:Group12
+    100756: Nhoc2:Rang4:Rang_copy001:Group13
+    100758: Nhoc2:Rang4:Rang_copy001:Group14
+    100760: Nhoc2:Rang4:Rang_copy001:Group15
+    100762: Nhoc2:Rang4:Rang_copy001:Group16
+    100764: Nhoc2:Rang4:Rang_copy001:Group17
+    100766: Nhoc2:Rang4:Rang_copy001:Group18
+    100768: Nhoc2:Rang4:Rang_copy001:Group19
+    100770: Nhoc2:Rang4:Rang_copy001:Group2
+    100772: Nhoc2:Rang4:Rang_copy001:Group20
+    100774: Nhoc2:Rang4:Rang_copy001:Group21
+    100776: Nhoc2:Rang4:Rang_copy001:Group22
+    100778: Nhoc2:Rang4:Rang_copy001:Group23
+    100780: Nhoc2:Rang4:Rang_copy001:Group24
+    100782: Nhoc2:Rang4:Rang_copy001:Group25
+    100784: Nhoc2:Rang4:Rang_copy001:Group26
+    100786: Nhoc2:Rang4:Rang_copy001:Group27
+    100788: Nhoc2:Rang4:Rang_copy001:Group28
+    100790: Nhoc2:Rang4:Rang_copy001:Group29
+    100792: Nhoc2:Rang4:Rang_copy001:Group30
+    100794: Nhoc2:Rang4:Rang_copy001:Group31
+    100796: Nhoc2:Rang4:Rang_copy001:Group32
+    100798: Nhoc2:Rang4:Rang_copy001:Group33
+    100800: Nhoc2:Rang4:Rang_copy001:Group34
+    100802: Nhoc2:Rang4:Rang_copy001:Group35
+    100804: Nhoc2:Rang4:Rang_copy001:Group4
+    100806: Nhoc2:Rang4:Rang_copy001:Group5
+    100808: Nhoc2:Rang4:Rang_copy001:Group6
+    100810: Nhoc2:Rang4:Rang_copy001:Group7
+    100812: Nhoc2:Rang4:Rang_copy001:Group8
+    100814: Nhoc2:Rang4:Rang_copy001:Group9
+    100816: Nhoc2:Rang4:s_Mieng
+    100818: Nhoc2:rt_BanChanPhai
+    100820: Nhoc2:rt_BanChanTrai
+    100822: Nhoc2:S_Minh
+    100824: Nhoc2:S_Toc
+    100826: Nhoc2:S_TrongDen
+    100828: Nhoc2:S_TrongDenTrai
+    100830: Nhoc2:S_TrongTrang
+    100832: Nhoc2:S_TrongTrangTrai
+    100834: Nhoc2:transform11
+    100836: Nhoc2:Vai_Phai
+    100838: Nhoc2:Vai_Trai
+    100840: //RootNode
+    400000: Nhoc2:Ao
+    400002: Nhoc2:back
+    400004: Nhoc2:BanTay:left
+    400006: Nhoc2:bottom
+    400008: Nhoc2:C_BangDieuKhienMat
+    400010: Nhoc2:Chan:C_Mat
+    400012: Nhoc2:Chan:C_Mieng
+    400014: Nhoc2:Chan:Char_A_1
+    400016: Nhoc2:Chan:Char_B_1
+    400018: Nhoc2:Chan:Char_B_2
+    400020: Nhoc2:Chan:Char_E_1
+    400022: Nhoc2:Chan:Char_E_2
+    400024: Nhoc2:Chan:Char_E_4
+    400026: Nhoc2:Chan:Char_E_6
+    400028: Nhoc2:Chan:Char_E_7
+    400030: Nhoc2:Chan:Char_E_8
+    400032: Nhoc2:Chan:Char_G_1
+    400034: Nhoc2:Chan:Char_H_1
+    400036: Nhoc2:Chan:Char_I_1
+    400038: Nhoc2:Chan:Char_I_2
+    400040: Nhoc2:Chan:Char_K_1
+    400042: Nhoc2:Chan:Char_L_1
+    400044: Nhoc2:Chan:Char_L_2
+    400046: Nhoc2:Chan:Char_M_1
+    400048: Nhoc2:Chan:Char_M_2
+    400050: Nhoc2:Chan:Char_N_2
+    400052: Nhoc2:Chan:Char_N_3
+    400054: Nhoc2:Chan:Char_O_1
+    400056: Nhoc2:Chan:Char_O_2
+    400058: Nhoc2:Chan:Char_O_4
+    400060: Nhoc2:Chan:Char_O_5
+    400062: Nhoc2:Chan:Char_O_6
+    400064: Nhoc2:Chan:Char_P_1
+    400066: Nhoc2:Chan:Char_R_2
+    400068: Nhoc2:Chan:Char_S_1
+    400070: Nhoc2:Chan:Char_S_2
+    400072: Nhoc2:Chan:Char_S_3
+    400074: Nhoc2:Chan:Char_S_4
+    400076: Nhoc2:Chan:Char_T_1
+    400078: Nhoc2:Chan:Char_T_2
+    400080: Nhoc2:Chan:Char_U_1
+    400082: Nhoc2:Chan:Char_U_3
+    400084: Nhoc2:Chan:Char_V_2
+    400086: Nhoc2:Chan:Char_W_1
+    400088: Nhoc2:Chan:Char_Y_1
+    400090: Nhoc2:Chan:Ctr_MatPhaiTrenl_Scroll
+    400092: Nhoc2:Chan:Ctrl_LeLuoiLen
+    400094: Nhoc2:Chan:Ctrl_LeLuoiTren_Scroll
+    400096: Nhoc2:Chan:Ctrl_LeLuoiXuong
+    400098: Nhoc2:Chan:Ctrl_LeLuoiXuong_Scroll
+    400100: Nhoc2:Chan:Ctrl_MatPhai_Tren
+    400102: Nhoc2:Chan:Ctrl_MatPhaiDuoi
+    400104: Nhoc2:Chan:Ctrl_MatPhaiDuoi_Scroll
+    400106: Nhoc2:Chan:Ctrl_MatTrai_Tren
+    400108: Nhoc2:Chan:Ctrl_MatTraiDuoi_Scroll
+    400110: Nhoc2:Chan:Ctrl_MatTraiiDuoi
+    400112: Nhoc2:Chan:Ctrl_MatTraiTren_Scroll
+    400114: Nhoc2:Chan:Ctrl_Mieng_Duoi_Scroll
+    400116: Nhoc2:Chan:Ctrl_MoiDuoi
+    400118: Nhoc2:Chan:Ctrl_MoiTren
+    400120: Nhoc2:Chan:Ctrl_MoiTren_Scroll
+    400122: Nhoc2:Chan:Ctrl_Mui_Scroll
+    400124: Nhoc2:Chan:Ctrl_Muoi
+    400126: Nhoc2:Chan:Ctrl_NhechMep
+    400128: Nhoc2:Chan:Ctrl_NhechMep_Scroll
+    400130: Nhoc2:Chan:curve10
+    400132: Nhoc2:Chan:curve11
+    400134: Nhoc2:Chan:curve12
+    400136: Nhoc2:Chan:curve13
+    400138: Nhoc2:Chan:curve21
+    400140: Nhoc2:Chan:curve22
+    400142: Nhoc2:Chan:curve23
+    400144: Nhoc2:Chan:curve24
+    400146: Nhoc2:Chan:curve25
+    400148: Nhoc2:Chan:curve26
+    400150: Nhoc2:Chan:curve27
+    400152: Nhoc2:Chan:curve28
+    400154: Nhoc2:Chan:curve29
+    400156: Nhoc2:Chan:curve3
+    400158: Nhoc2:Chan:curve30
+    400160: Nhoc2:Chan:curve31
+    400162: Nhoc2:Chan:curve32
+    400164: Nhoc2:Chan:curve33
+    400166: Nhoc2:Chan:curve34
+    400168: Nhoc2:Chan:curve35
+    400170: Nhoc2:Chan:curve36
+    400172: Nhoc2:Chan:curve37
+    400174: Nhoc2:Chan:curve38
+    400176: Nhoc2:Chan:curve39
+    400178: Nhoc2:Chan:curve4
+    400180: Nhoc2:Chan:curve40
+    400182: Nhoc2:Chan:curve41
+    400184: Nhoc2:Chan:curve42
+    400186: Nhoc2:Chan:curve43
+    400188: Nhoc2:Chan:curve44
+    400190: Nhoc2:Chan:curve45
+    400192: Nhoc2:Chan:curve46
+    400194: Nhoc2:Chan:curve47
+    400196: Nhoc2:Chan:curve48
+    400198: Nhoc2:Chan:curve49
+    400200: Nhoc2:Chan:curve5
+    400202: Nhoc2:Chan:curve50
+    400204: Nhoc2:Chan:curve51
+    400206: Nhoc2:Chan:curve52
+    400208: Nhoc2:Chan:curve53
+    400210: Nhoc2:Chan:curve54
+    400212: Nhoc2:Chan:curve55
+    400214: Nhoc2:Chan:curve56
+    400216: Nhoc2:Chan:curve57
+    400218: Nhoc2:Chan:curve58
+    400220: Nhoc2:Chan:curve59
+    400222: Nhoc2:Chan:curve6
+    400224: Nhoc2:Chan:curve60
+    400226: Nhoc2:Chan:curve8
+    400228: Nhoc2:Chan:curve9
+    400230: Nhoc2:Chan:Text_ABOVE_1
+    400232: Nhoc2:Chan:Text_BELOW_1
+    400234: Nhoc2:Chan:Text_EYES_1
+    400236: Nhoc2:Chan:Text_LIPS_1
+    400238: Nhoc2:Chan:Text_MOUTH_1
+    400240: Nhoc2:Chan:Text_NOSE_1
+    400242: Nhoc2:Chan:Text_SMIRK_1
+    400244: Nhoc2:Chan:Text_TONGUE_1
+    400246: Nhoc2:DotSongLung
+    400248: Nhoc2:DotSongLung2
+    400250: Nhoc2:DotSongLung3
+    400252: Nhoc2:DotSongLung4
+    400254: Nhoc2:DotSongLung5
+    400256: Nhoc2:G_DieuKhienKhop
+    400258: Nhoc2:G_DK_BanTayPhai
+    400260: Nhoc2:G_DK_BanTayTrai
+    400262: Nhoc2:G_DK_Ham
+    400264: Nhoc2:G_LongMi
+    400266: Nhoc2:G_LongMi_Phai
+    400268: Nhoc2:G_LongMi_Phai_Duoi
+    400270: Nhoc2:G_LongMi_Phai_Tren
+    400272: Nhoc2:G_LongMi_Trai
+    400274: Nhoc2:G_LongMi_Trai_Tren
+    400276: Nhoc2:G_LongMi_Trai_Tren1
+    400278: Nhoc2:G_Mat
+    400280: Nhoc2:G_MatPhai
+    400282: Nhoc2:G_MatTrai
+    400284: Nhoc2:G_Rang
+    400286: Nhoc2:G_Sharp
+    400288: Nhoc2:G_Toc
+    400290: Nhoc2:G_Vai
+    400292: Nhoc2:Hong
+    400294: Nhoc2:ikHandle3
+    400296: Nhoc2:ikHandle4
+    400298: Nhoc2:ikHandle5
+    400300: Nhoc2:ikHandle6
+    400302: Nhoc2:jBanChanTrai
+    400304: Nhoc2:jBanTayPhai
+    400306: Nhoc2:jBanTayTrai
+    400308: Nhoc2:jChanPhai
+    400310: Nhoc2:jChanTrai
+    400312: Nhoc2:jChoTayPhai
+    400314: Nhoc2:jChoTayTrai
+    400316: Nhoc2:jDotSong2
+    400318: Nhoc2:jDotSong3
+    400320: Nhoc2:jDotSong4
+    400322: Nhoc2:jGoiChanTrai
+    400324: Nhoc2:jGoiPhai
+    400326: Nhoc2:jGotChanPhai
+    400328: Nhoc2:jGotChanTrai
+    400330: Nhoc2:jHamDuoi
+    400332: Nhoc2:jHamTren
+    400334: Nhoc2:jNgonChanCaiPhai1
+    400336: Nhoc2:jNgonChanCaiPhai2
+    400338: Nhoc2:jNgonChanCaiPhai3
+    400340: Nhoc2:jNgonChanCaiTrai1
+    400342: Nhoc2:jNgonChanCaiTrai2
+    400344: Nhoc2:jNgonChanCaiTrai3
+    400346: Nhoc2:jNgonChanDanhPhai1
+    400348: Nhoc2:jNgonChanDanhPhai2
+    400350: Nhoc2:jNgonChanDanhPhai3
+    400352: Nhoc2:jNgonChanDanhPhai4
+    400354: Nhoc2:jNgonChanDanhTrai1
+    400356: Nhoc2:jNgonChanDanhTrai2
+    400358: Nhoc2:jNgonChanDanhTrai3
+    400360: Nhoc2:jNgonChanDanhTrai4
+    400362: Nhoc2:jNgonChanGiuaPhai1
+    400364: Nhoc2:jNgonChanGiuaPhai2
+    400366: Nhoc2:jNgonChanGiuaPhai3
+    400368: Nhoc2:jNgonChanGiuaPhai4
+    400370: Nhoc2:jNgonChanGiuaTrai1
+    400372: Nhoc2:jNgonChanGiuaTrai2
+    400374: Nhoc2:jNgonChanGiuaTrai3
+    400376: Nhoc2:jNgonChanGiuaTrai4
+    400378: Nhoc2:jNgonChanTroPhai1
+    400380: Nhoc2:jNgonChanTroPhai2
+    400382: Nhoc2:jNgonChanTroPhai3
+    400384: Nhoc2:jNgonChanTroPhai4
+    400386: Nhoc2:jNgonChanTroTrai1
+    400388: Nhoc2:jNgonChanTroTrai2
+    400390: Nhoc2:jNgonChanTroTrai3
+    400392: Nhoc2:jNgonChanTroTrai4
+    400394: Nhoc2:jNgonChanUtPhai1
+    400396: Nhoc2:jNgonChanUtPhai2
+    400398: Nhoc2:jNgonChanUtPhai3
+    400400: Nhoc2:jNgonChanUtPhai4
+    400402: Nhoc2:jNgonChanUtTrai1
+    400404: Nhoc2:jNgonChanUtTrai2
+    400406: Nhoc2:jNgonChanUtTrai3
+    400408: Nhoc2:jNgonChanUtTrai4
+    400410: Nhoc2:jNgonTayCaiPhai1
+    400412: Nhoc2:jNgonTayCaiPhai2
+    400414: Nhoc2:jNgonTayCaiPhai3
+    400416: Nhoc2:jNgonTayCaiPhai4
+    400418: Nhoc2:jNgonTayCaiTrai1
+    400420: Nhoc2:jNgonTayCaiTrai2
+    400422: Nhoc2:jNgonTayCaiTrai3
+    400424: Nhoc2:jNgonTayCaiTrai4
+    400426: Nhoc2:jNgonTayDanhPhai1
+    400428: Nhoc2:jNgonTayDanhPhai2
+    400430: Nhoc2:jNgonTayDanhPhai3
+    400432: Nhoc2:jNgonTayDanhPhai4
+    400434: Nhoc2:jNgonTayDanhTrai1
+    400436: Nhoc2:jNgonTayDanhTrai2
+    400438: Nhoc2:jNgonTayDanhTrai3
+    400440: Nhoc2:jNgonTayDanhTrai4
+    400442: Nhoc2:jNgonTayGiuaPhai1
+    400444: Nhoc2:jNgonTayGiuaPhai2
+    400446: Nhoc2:jNgonTayGiuaPhai3
+    400448: Nhoc2:jNgonTayGiuaPhai4
+    400450: Nhoc2:jNgonTayGiuaTrai1
+    400452: Nhoc2:jNgonTayGiuaTrai2
+    400454: Nhoc2:jNgonTayGiuaTrai3
+    400456: Nhoc2:jNgonTayGiuaTrai4
+    400458: Nhoc2:jNgonTayTroPhai1
+    400460: Nhoc2:jNgonTayTroPhai2
+    400462: Nhoc2:jNgonTayTroPhai3
+    400464: Nhoc2:jNgonTayTroPhai4
+    400466: Nhoc2:jNgonTayTroTrai1
+    400468: Nhoc2:jNgonTayTroTrai2
+    400470: Nhoc2:jNgonTayTroTrai3
+    400472: Nhoc2:jNgonTayTroTrai4
+    400474: Nhoc2:jNgonTayUtPhai1
+    400476: Nhoc2:jNgonTayUtPhai2
+    400478: Nhoc2:jNgonTayUtPhai3
+    400480: Nhoc2:jNgonTayUtPhai4
+    400482: Nhoc2:jNgonTayUtTrai1
+    400484: Nhoc2:jNgonTayUtTrai2
+    400486: Nhoc2:jNgonTayUtTrai3
+    400488: Nhoc2:jNgonTayUtTrai4
+    400490: Nhoc2:joint37
+    400492: Nhoc2:joint8
+    400494: Nhoc2:jTraiPhai
+    400496: Nhoc2:jTraiTrai
+    400498: Nhoc2:jXuong
+    400500: Nhoc2:jXuongCo
+    400502: Nhoc2:jXuongHam
+    400504: Nhoc2:jXuongVai
+    400506: Nhoc2:left
+    400508: Nhoc2:lt_KhopGoiTrai
+    400510: Nhoc2:lt_KhopGoiTrai1
+    400512: Nhoc2:lt_KhopGoiTrai2
+    400514: Nhoc2:lt_KhopGoiTrai3
+    400516: Nhoc2:MainMove
+    400518: Nhoc2:mv_BanChanPhai
+    400520: Nhoc2:mv_BanChanTrai
+    400522: Nhoc2:mv_BanTayPhai
+    400524: Nhoc2:mv_BanTayTrai
+    400526: Nhoc2:mv_HamDuoi
+    400528: Nhoc2:mv_HamTren
+    400530: Nhoc2:pCylinder1
+    400532: Nhoc2:pCylinder1 1
+    400534: Nhoc2:pCylinder1 2
+    400536: Nhoc2:pCylinder1 3
+    400538: Nhoc2:pCylinder10
+    400540: Nhoc2:pCylinder10 1
+    400542: Nhoc2:pCylinder10 2
+    400544: Nhoc2:pCylinder10 3
+    400546: Nhoc2:pCylinder11
+    400548: Nhoc2:pCylinder11 1
+    400550: Nhoc2:pCylinder11 2
+    400552: Nhoc2:pCylinder11 3
+    400554: Nhoc2:pCylinder12
+    400556: Nhoc2:pCylinder12 1
+    400558: Nhoc2:pCylinder12 2
+    400560: Nhoc2:pCylinder12 3
+    400562: Nhoc2:pCylinder13
+    400564: Nhoc2:pCylinder13 1
+    400566: Nhoc2:pCylinder13 2
+    400568: Nhoc2:pCylinder13 3
+    400570: Nhoc2:pCylinder14
+    400572: Nhoc2:pCylinder14 1
+    400574: Nhoc2:pCylinder14 2
+    400576: Nhoc2:pCylinder14 3
+    400578: Nhoc2:pCylinder15
+    400580: Nhoc2:pCylinder15 1
+    400582: Nhoc2:pCylinder15 2
+    400584: Nhoc2:pCylinder15 3
+    400586: Nhoc2:pCylinder16
+    400588: Nhoc2:pCylinder16 1
+    400590: Nhoc2:pCylinder16 2
+    400592: Nhoc2:pCylinder16 3
+    400594: Nhoc2:pCylinder17
+    400596: Nhoc2:pCylinder17 1
+    400598: Nhoc2:pCylinder17 2
+    400600: Nhoc2:pCylinder17 3
+    400602: Nhoc2:pCylinder18
+    400604: Nhoc2:pCylinder18 1
+    400606: Nhoc2:pCylinder18 2
+    400608: Nhoc2:pCylinder18 3
+    400610: Nhoc2:pCylinder19
+    400612: Nhoc2:pCylinder19 1
+    400614: Nhoc2:pCylinder19 2
+    400616: Nhoc2:pCylinder19 3
+    400618: Nhoc2:pCylinder2
+    400620: Nhoc2:pCylinder2 1
+    400622: Nhoc2:pCylinder2 2
+    400624: Nhoc2:pCylinder2 3
+    400626: Nhoc2:pCylinder20
+    400628: Nhoc2:pCylinder20 1
+    400630: Nhoc2:pCylinder20 2
+    400632: Nhoc2:pCylinder20 3
+    400634: Nhoc2:pCylinder21
+    400636: Nhoc2:pCylinder21 1
+    400638: Nhoc2:pCylinder21 2
+    400640: Nhoc2:pCylinder21 3
+    400642: Nhoc2:pCylinder22
+    400644: Nhoc2:pCylinder22 1
+    400646: Nhoc2:pCylinder22 2
+    400648: Nhoc2:pCylinder22 3
+    400650: Nhoc2:pCylinder23
+    400652: Nhoc2:pCylinder23 1
+    400654: Nhoc2:pCylinder23 2
+    400656: Nhoc2:pCylinder23 3
+    400658: Nhoc2:pCylinder3
+    400660: Nhoc2:pCylinder3 1
+    400662: Nhoc2:pCylinder3 2
+    400664: Nhoc2:pCylinder3 3
+    400666: Nhoc2:pCylinder4
+    400668: Nhoc2:pCylinder4 1
+    400670: Nhoc2:pCylinder4 2
+    400672: Nhoc2:pCylinder4 3
+    400674: Nhoc2:pCylinder5
+    400676: Nhoc2:pCylinder5 1
+    400678: Nhoc2:pCylinder5 2
+    400680: Nhoc2:pCylinder5 3
+    400682: Nhoc2:pCylinder6
+    400684: Nhoc2:pCylinder6 1
+    400686: Nhoc2:pCylinder6 2
+    400688: Nhoc2:pCylinder6 3
+    400690: Nhoc2:pCylinder7
+    400692: Nhoc2:pCylinder7 1
+    400694: Nhoc2:pCylinder7 2
+    400696: Nhoc2:pCylinder7 3
+    400698: Nhoc2:pCylinder8
+    400700: Nhoc2:pCylinder8 1
+    400702: Nhoc2:pCylinder8 2
+    400704: Nhoc2:pCylinder8 3
+    400706: Nhoc2:pCylinder9
+    400708: Nhoc2:pCylinder9 1
+    400710: Nhoc2:pCylinder9 2
+    400712: Nhoc2:pCylinder9 3
+    400714: Nhoc2:persp1
+    400716: Nhoc2:pSphere18
+    400718: Nhoc2:pSphere2
+    400720: Nhoc2:pSphere20
+    400722: Nhoc2:pSphere21
+    400724: Nhoc2:pSphere22
+    400726: Nhoc2:pSphere23
+    400728: Nhoc2:pSphere24
+    400730: Nhoc2:pSphere27
+    400732: Nhoc2:pSphere28
+    400734: Nhoc2:pSphere29
+    400736: Nhoc2:pSphere3
+    400738: Nhoc2:pSphere30
+    400740: Nhoc2:pSphere31
+    400742: Nhoc2:pSphere32
+    400744: Nhoc2:pSphere4
+    400746: Nhoc2:pSphere6
+    400748: Nhoc2:pSphere9
+    400750: Nhoc2:Rang4:Rang_copy001:Group10
+    400752: Nhoc2:Rang4:Rang_copy001:Group11
+    400754: Nhoc2:Rang4:Rang_copy001:Group12
+    400756: Nhoc2:Rang4:Rang_copy001:Group13
+    400758: Nhoc2:Rang4:Rang_copy001:Group14
+    400760: Nhoc2:Rang4:Rang_copy001:Group15
+    400762: Nhoc2:Rang4:Rang_copy001:Group16
+    400764: Nhoc2:Rang4:Rang_copy001:Group17
+    400766: Nhoc2:Rang4:Rang_copy001:Group18
+    400768: Nhoc2:Rang4:Rang_copy001:Group19
+    400770: Nhoc2:Rang4:Rang_copy001:Group2
+    400772: Nhoc2:Rang4:Rang_copy001:Group20
+    400774: Nhoc2:Rang4:Rang_copy001:Group21
+    400776: Nhoc2:Rang4:Rang_copy001:Group22
+    400778: Nhoc2:Rang4:Rang_copy001:Group23
+    400780: Nhoc2:Rang4:Rang_copy001:Group24
+    400782: Nhoc2:Rang4:Rang_copy001:Group25
+    400784: Nhoc2:Rang4:Rang_copy001:Group26
+    400786: Nhoc2:Rang4:Rang_copy001:Group27
+    400788: Nhoc2:Rang4:Rang_copy001:Group28
+    400790: Nhoc2:Rang4:Rang_copy001:Group29
+    400792: Nhoc2:Rang4:Rang_copy001:Group30
+    400794: Nhoc2:Rang4:Rang_copy001:Group31
+    400796: Nhoc2:Rang4:Rang_copy001:Group32
+    400798: Nhoc2:Rang4:Rang_copy001:Group33
+    400800: Nhoc2:Rang4:Rang_copy001:Group34
+    400802: Nhoc2:Rang4:Rang_copy001:Group35
+    400804: Nhoc2:Rang4:Rang_copy001:Group4
+    400806: Nhoc2:Rang4:Rang_copy001:Group5
+    400808: Nhoc2:Rang4:Rang_copy001:Group6
+    400810: Nhoc2:Rang4:Rang_copy001:Group7
+    400812: Nhoc2:Rang4:Rang_copy001:Group8
+    400814: Nhoc2:Rang4:Rang_copy001:Group9
+    400816: Nhoc2:Rang4:s_Mieng
+    400818: Nhoc2:rt_BanChanPhai
+    400820: Nhoc2:rt_BanChanTrai
+    400822: Nhoc2:S_Minh
+    400824: Nhoc2:S_Toc
+    400826: Nhoc2:S_TrongDen
+    400828: Nhoc2:S_TrongDenTrai
+    400830: Nhoc2:S_TrongTrang
+    400832: Nhoc2:S_TrongTrangTrai
+    400834: Nhoc2:transform11
+    400836: Nhoc2:Vai_Phai
+    400838: Nhoc2:Vai_Trai
+    400840: //RootNode
+    2300000: Nhoc2:S_TrongDen
+    2300002: Nhoc2:S_TrongDenTrai
+    2300004: Nhoc2:S_TrongTrang
+    2300006: Nhoc2:S_TrongTrangTrai
+    3300000: Nhoc2:S_TrongDen
+    3300002: Nhoc2:S_TrongDenTrai
+    3300004: Nhoc2:S_TrongTrang
+    3300006: Nhoc2:S_TrongTrangTrai
+    4300000: Nhoc2:S_TrongDen
+    4300002: Nhoc2:S_TrongTrang
+    4300004: Nhoc2:S_TrongDenTrai
+    4300006: Nhoc2:S_TrongTrangTrai
+    4300008: Nhoc2:pCylinder1
+    4300010: Nhoc2:pCylinder2
+    4300012: Nhoc2:pCylinder3
+    4300014: Nhoc2:pCylinder4
+    4300016: Nhoc2:pCylinder5
+    4300018: Nhoc2:pCylinder6
+    4300020: Nhoc2:pCylinder7
+    4300022: Nhoc2:pCylinder8
+    4300024: Nhoc2:pCylinder9
+    4300026: Nhoc2:pCylinder11
+    4300028: Nhoc2:pCylinder12
+    4300030: Nhoc2:pCylinder13
+    4300032: Nhoc2:pCylinder14
+    4300034: Nhoc2:pCylinder15
+    4300036: Nhoc2:pCylinder16
+    4300038: Nhoc2:pCylinder17
+    4300040: Nhoc2:pCylinder18
+    4300042: Nhoc2:pCylinder19
+    4300044: Nhoc2:pCylinder20
+    4300046: Nhoc2:pCylinder21
+    4300048: Nhoc2:pCylinder22
+    4300050: Nhoc2:pCylinder23
+    4300052: Nhoc2:pCylinder10
+    4300054: Nhoc2:pCylinder1
+    4300056: Nhoc2:pCylinder2
+    4300058: Nhoc2:pCylinder3
+    4300060: Nhoc2:pCylinder4
+    4300062: Nhoc2:pCylinder5
+    4300064: Nhoc2:pCylinder6
+    4300066: Nhoc2:pCylinder7
+    4300068: Nhoc2:pCylinder8
+    4300070: Nhoc2:pCylinder9
+    4300072: Nhoc2:pCylinder11
+    4300074: Nhoc2:pCylinder12
+    4300076: Nhoc2:pCylinder13
+    4300078: Nhoc2:pCylinder14
+    4300080: Nhoc2:pCylinder15
+    4300082: Nhoc2:pCylinder16
+    4300084: Nhoc2:pCylinder17
+    4300086: Nhoc2:pCylinder18
+    4300088: Nhoc2:pCylinder19
+    4300090: Nhoc2:pCylinder20
+    4300092: Nhoc2:pCylinder21
+    4300094: Nhoc2:pCylinder22
+    4300096: Nhoc2:pCylinder23
+    4300098: Nhoc2:pCylinder10
+    4300100: Nhoc2:pCylinder1
+    4300102: Nhoc2:pCylinder2
+    4300104: Nhoc2:pCylinder3
+    4300106: Nhoc2:pCylinder4
+    4300108: Nhoc2:pCylinder5
+    4300110: Nhoc2:pCylinder6
+    4300112: Nhoc2:pCylinder7
+    4300114: Nhoc2:pCylinder8
+    4300116: Nhoc2:pCylinder9
+    4300118: Nhoc2:pCylinder11
+    4300120: Nhoc2:pCylinder12
+    4300122: Nhoc2:pCylinder13
+    4300124: Nhoc2:pCylinder14
+    4300126: Nhoc2:pCylinder15
+    4300128: Nhoc2:pCylinder16
+    4300130: Nhoc2:pCylinder17
+    4300132: Nhoc2:pCylinder18
+    4300134: Nhoc2:pCylinder19
+    4300136: Nhoc2:pCylinder20
+    4300138: Nhoc2:pCylinder21
+    4300140: Nhoc2:pCylinder22
+    4300142: Nhoc2:pCylinder23
+    4300144: Nhoc2:pCylinder10
+    4300146: Nhoc2:pCylinder1
+    4300148: Nhoc2:pCylinder2
+    4300150: Nhoc2:pCylinder3
+    4300152: Nhoc2:pCylinder4
+    4300154: Nhoc2:pCylinder5
+    4300156: Nhoc2:pCylinder6
+    4300158: Nhoc2:pCylinder7
+    4300160: Nhoc2:pCylinder8
+    4300162: Nhoc2:pCylinder9
+    4300164: Nhoc2:pCylinder11
+    4300166: Nhoc2:pCylinder12
+    4300168: Nhoc2:pCylinder13
+    4300170: Nhoc2:pCylinder14
+    4300172: Nhoc2:pCylinder15
+    4300174: Nhoc2:pCylinder16
+    4300176: Nhoc2:pCylinder17
+    4300178: Nhoc2:pCylinder18
+    4300180: Nhoc2:pCylinder19
+    4300182: Nhoc2:pCylinder20
+    4300184: Nhoc2:pCylinder21
+    4300186: Nhoc2:pCylinder22
+    4300188: Nhoc2:pCylinder23
+    4300190: Nhoc2:pCylinder10
+    4300192: Nhoc2:pSphere32
+    4300194: Nhoc2:pSphere31
+    4300196: Nhoc2:pSphere29
+    4300198: Nhoc2:pSphere28
+    4300200: Nhoc2:pSphere27
+    4300202: Nhoc2:pSphere30
+    4300204: Nhoc2:pSphere24
+    4300206: Nhoc2:pSphere23
+    4300208: Nhoc2:pSphere22
+    4300210: Nhoc2:pSphere21
+    4300212: Nhoc2:pSphere20
+    4300214: Nhoc2:pSphere18
+    4300216: Nhoc2:pSphere9
+    4300218: Nhoc2:pSphere6
+    4300220: Nhoc2:pSphere4
+    4300222: Nhoc2:pSphere3
+    4300224: Nhoc2:S_Toc
+    4300226: Nhoc2:Ao
+    4300228: Nhoc2:Rang4:Rang_copy001:Group2
+    4300230: Nhoc2:Rang4:s_Mieng
+    4300232: Nhoc2:Rang4:Rang_copy001:Group4
+    4300234: Nhoc2:Rang4:Rang_copy001:Group5
+    4300236: Nhoc2:Rang4:Rang_copy001:Group6
+    4300238: Nhoc2:Rang4:Rang_copy001:Group7
+    4300240: Nhoc2:Rang4:Rang_copy001:Group8
+    4300242: Nhoc2:Rang4:Rang_copy001:Group9
+    4300244: Nhoc2:Rang4:Rang_copy001:Group10
+    4300246: Nhoc2:Rang4:Rang_copy001:Group11
+    4300248: Nhoc2:Rang4:Rang_copy001:Group12
+    4300250: Nhoc2:Rang4:Rang_copy001:Group13
+    4300252: Nhoc2:Rang4:Rang_copy001:Group14
+    4300254: Nhoc2:Rang4:Rang_copy001:Group15
+    4300256: Nhoc2:Rang4:Rang_copy001:Group16
+    4300258: Nhoc2:Rang4:Rang_copy001:Group17
+    4300260: Nhoc2:Rang4:Rang_copy001:Group18
+    4300262: Nhoc2:Rang4:Rang_copy001:Group19
+    4300264: Nhoc2:Rang4:Rang_copy001:Group20
+    4300266: Nhoc2:Rang4:Rang_copy001:Group21
+    4300268: Nhoc2:Rang4:Rang_copy001:Group22
+    4300270: Nhoc2:Rang4:Rang_copy001:Group23
+    4300272: Nhoc2:Rang4:Rang_copy001:Group24
+    4300274: Nhoc2:Rang4:Rang_copy001:Group25
+    4300276: Nhoc2:Rang4:Rang_copy001:Group26
+    4300278: Nhoc2:Rang4:Rang_copy001:Group27
+    4300280: Nhoc2:Rang4:Rang_copy001:Group28
+    4300282: Nhoc2:Rang4:Rang_copy001:Group29
+    4300284: Nhoc2:Rang4:Rang_copy001:Group30
+    4300286: Nhoc2:Rang4:Rang_copy001:Group31
+    4300288: Nhoc2:Rang4:Rang_copy001:Group32
+    4300290: Nhoc2:Rang4:Rang_copy001:Group33
+    4300292: Nhoc2:Rang4:Rang_copy001:Group34
+    4300294: Nhoc2:Rang4:Rang_copy001:Group35
+    4300296: Nhoc2:S_Minh
+    7400000: Idle
+    9500000: //RootNode
+    13700000: Nhoc2:Ao
+    13700002: Nhoc2:pCylinder1
+    13700004: Nhoc2:pCylinder1 1
+    13700006: Nhoc2:pCylinder1 2
+    13700008: Nhoc2:pCylinder1 3
+    13700010: Nhoc2:pCylinder10
+    13700012: Nhoc2:pCylinder10 1
+    13700014: Nhoc2:pCylinder10 2
+    13700016: Nhoc2:pCylinder10 3
+    13700018: Nhoc2:pCylinder11
+    13700020: Nhoc2:pCylinder11 1
+    13700022: Nhoc2:pCylinder11 2
+    13700024: Nhoc2:pCylinder11 3
+    13700026: Nhoc2:pCylinder12
+    13700028: Nhoc2:pCylinder12 1
+    13700030: Nhoc2:pCylinder12 2
+    13700032: Nhoc2:pCylinder12 3
+    13700034: Nhoc2:pCylinder13
+    13700036: Nhoc2:pCylinder13 1
+    13700038: Nhoc2:pCylinder13 2
+    13700040: Nhoc2:pCylinder13 3
+    13700042: Nhoc2:pCylinder14
+    13700044: Nhoc2:pCylinder14 1
+    13700046: Nhoc2:pCylinder14 2
+    13700048: Nhoc2:pCylinder14 3
+    13700050: Nhoc2:pCylinder15
+    13700052: Nhoc2:pCylinder15 1
+    13700054: Nhoc2:pCylinder15 2
+    13700056: Nhoc2:pCylinder15 3
+    13700058: Nhoc2:pCylinder16
+    13700060: Nhoc2:pCylinder16 1
+    13700062: Nhoc2:pCylinder16 2
+    13700064: Nhoc2:pCylinder16 3
+    13700066: Nhoc2:pCylinder17
+    13700068: Nhoc2:pCylinder17 1
+    13700070: Nhoc2:pCylinder17 2
+    13700072: Nhoc2:pCylinder17 3
+    13700074: Nhoc2:pCylinder18
+    13700076: Nhoc2:pCylinder18 1
+    13700078: Nhoc2:pCylinder18 2
+    13700080: Nhoc2:pCylinder18 3
+    13700082: Nhoc2:pCylinder19
+    13700084: Nhoc2:pCylinder19 1
+    13700086: Nhoc2:pCylinder19 2
+    13700088: Nhoc2:pCylinder19 3
+    13700090: Nhoc2:pCylinder2
+    13700092: Nhoc2:pCylinder2 1
+    13700094: Nhoc2:pCylinder2 2
+    13700096: Nhoc2:pCylinder2 3
+    13700098: Nhoc2:pCylinder20
+    13700100: Nhoc2:pCylinder20 1
+    13700102: Nhoc2:pCylinder20 2
+    13700104: Nhoc2:pCylinder20 3
+    13700106: Nhoc2:pCylinder21
+    13700108: Nhoc2:pCylinder21 1
+    13700110: Nhoc2:pCylinder21 2
+    13700112: Nhoc2:pCylinder21 3
+    13700114: Nhoc2:pCylinder22
+    13700116: Nhoc2:pCylinder22 1
+    13700118: Nhoc2:pCylinder22 2
+    13700120: Nhoc2:pCylinder22 3
+    13700122: Nhoc2:pCylinder23
+    13700124: Nhoc2:pCylinder23 1
+    13700126: Nhoc2:pCylinder23 2
+    13700128: Nhoc2:pCylinder23 3
+    13700130: Nhoc2:pCylinder3
+    13700132: Nhoc2:pCylinder3 1
+    13700134: Nhoc2:pCylinder3 2
+    13700136: Nhoc2:pCylinder3 3
+    13700138: Nhoc2:pCylinder4
+    13700140: Nhoc2:pCylinder4 1
+    13700142: Nhoc2:pCylinder4 2
+    13700144: Nhoc2:pCylinder4 3
+    13700146: Nhoc2:pCylinder5
+    13700148: Nhoc2:pCylinder5 1
+    13700150: Nhoc2:pCylinder5 2
+    13700152: Nhoc2:pCylinder5 3
+    13700154: Nhoc2:pCylinder6
+    13700156: Nhoc2:pCylinder6 1
+    13700158: Nhoc2:pCylinder6 2
+    13700160: Nhoc2:pCylinder6 3
+    13700162: Nhoc2:pCylinder7
+    13700164: Nhoc2:pCylinder7 1
+    13700166: Nhoc2:pCylinder7 2
+    13700168: Nhoc2:pCylinder7 3
+    13700170: Nhoc2:pCylinder8
+    13700172: Nhoc2:pCylinder8 1
+    13700174: Nhoc2:pCylinder8 2
+    13700176: Nhoc2:pCylinder8 3
+    13700178: Nhoc2:pCylinder9
+    13700180: Nhoc2:pCylinder9 1
+    13700182: Nhoc2:pCylinder9 2
+    13700184: Nhoc2:pCylinder9 3
+    13700186: Nhoc2:pSphere18
+    13700188: Nhoc2:pSphere20
+    13700190: Nhoc2:pSphere21
+    13700192: Nhoc2:pSphere22
+    13700194: Nhoc2:pSphere23
+    13700196: Nhoc2:pSphere24
+    13700198: Nhoc2:pSphere27
+    13700200: Nhoc2:pSphere28
+    13700202: Nhoc2:pSphere29
+    13700204: Nhoc2:pSphere3
+    13700206: Nhoc2:pSphere30
+    13700208: Nhoc2:pSphere31
+    13700210: Nhoc2:pSphere32
+    13700212: Nhoc2:pSphere4
+    13700214: Nhoc2:pSphere6
+    13700216: Nhoc2:pSphere9
+    13700218: Nhoc2:Rang4:Rang_copy001:Group10
+    13700220: Nhoc2:Rang4:Rang_copy001:Group11
+    13700222: Nhoc2:Rang4:Rang_copy001:Group12
+    13700224: Nhoc2:Rang4:Rang_copy001:Group13
+    13700226: Nhoc2:Rang4:Rang_copy001:Group14
+    13700228: Nhoc2:Rang4:Rang_copy001:Group15
+    13700230: Nhoc2:Rang4:Rang_copy001:Group16
+    13700232: Nhoc2:Rang4:Rang_copy001:Group17
+    13700234: Nhoc2:Rang4:Rang_copy001:Group18
+    13700236: Nhoc2:Rang4:Rang_copy001:Group19
+    13700238: Nhoc2:Rang4:Rang_copy001:Group2
+    13700240: Nhoc2:Rang4:Rang_copy001:Group20
+    13700242: Nhoc2:Rang4:Rang_copy001:Group21
+    13700244: Nhoc2:Rang4:Rang_copy001:Group22
+    13700246: Nhoc2:Rang4:Rang_copy001:Group23
+    13700248: Nhoc2:Rang4:Rang_copy001:Group24
+    13700250: Nhoc2:Rang4:Rang_copy001:Group25
+    13700252: Nhoc2:Rang4:Rang_copy001:Group26
+    13700254: Nhoc2:Rang4:Rang_copy001:Group27
+    13700256: Nhoc2:Rang4:Rang_copy001:Group28
+    13700258: Nhoc2:Rang4:Rang_copy001:Group29
+    13700260: Nhoc2:Rang4:Rang_copy001:Group30
+    13700262: Nhoc2:Rang4:Rang_copy001:Group31
+    13700264: Nhoc2:Rang4:Rang_copy001:Group32
+    13700266: Nhoc2:Rang4:Rang_copy001:Group33
+    13700268: Nhoc2:Rang4:Rang_copy001:Group34
+    13700270: Nhoc2:Rang4:Rang_copy001:Group35
+    13700272: Nhoc2:Rang4:Rang_copy001:Group4
+    13700274: Nhoc2:Rang4:Rang_copy001:Group5
+    13700276: Nhoc2:Rang4:Rang_copy001:Group6
+    13700278: Nhoc2:Rang4:Rang_copy001:Group7
+    13700280: Nhoc2:Rang4:Rang_copy001:Group8
+    13700282: Nhoc2:Rang4:Rang_copy001:Group9
+    13700284: Nhoc2:Rang4:s_Mieng
+    13700286: Nhoc2:S_Minh
+    13700288: Nhoc2:S_Toc
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Nhoc2:back
+        weight: 1
+      - path: Nhoc2:BanTay:left
+        weight: 1
+      - path: Nhoc2:bottom
+        weight: 1
+      - path: Nhoc2:G_Sharp
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:Ao
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder4
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder5
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder6
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder7
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder8
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder9
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder10
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder11
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder12
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder13
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder14
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder15
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder16
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder17
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder18
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder19
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder20
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder21
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder22
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Duoi/Nhoc2:pCylinder23
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder1
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder2
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder3
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder4
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder5
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder6
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder7
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder8
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder9
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder10
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder11
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder12
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder13
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder14
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder15
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder16
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder17
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder18
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder19
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder20
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder21
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder22
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Phai/Nhoc2:G_LongMi_Phai_Tren/Nhoc2:pCylinder23
+          1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder1
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder2
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder3
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder4
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder5
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder6
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder7
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder8
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder9
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder10
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder11
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder12
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder13
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder14
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder15
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder16
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder17
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder18
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder19
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder20
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder21
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder22
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren/Nhoc2:pCylinder23
+          2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder1
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder2
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder3
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder4
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder5
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder6
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder7
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder8
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder9
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder10
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder11
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder12
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder13
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder14
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder15
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder16
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder17
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder18
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder19
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder20
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder21
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder22
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_LongMi/Nhoc2:G_LongMi_Trai/Nhoc2:G_LongMi_Trai_Tren1/Nhoc2:pCylinder23
+          3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group4
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group5
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group6
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group7
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group8
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group9
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group10
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group11
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group12
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group13
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group14
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group15
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group16
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group17
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group18
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group19
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group20
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group21
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group22
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group23
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group24
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group25
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group26
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group27
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group28
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group29
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group30
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group31
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group32
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group33
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group34
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:Rang_copy001:Group35
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Rang/Nhoc2:Rang4:s_Mieng
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere2
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere2/Nhoc2:transform11
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere3
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere4
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere6
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere9
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere18
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere20
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere21
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere22
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere23
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere24
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere27
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere28
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere29
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere30
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere31
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:G_Toc/Nhoc2:pSphere32
+        weight: 1
+      - path: Nhoc2:G_Sharp/Nhoc2:S_Toc
+        weight: 1
+      - path: Nhoc2:ikHandle3
+        weight: 1
+      - path: Nhoc2:ikHandle4
+        weight: 1
+      - path: Nhoc2:ikHandle5
+        weight: 1
+      - path: Nhoc2:ikHandle6
+        weight: 1
+      - path: Nhoc2:jXuong
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanCaiPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanCaiPhai1/Nhoc2:jNgonChanCaiPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanCaiPhai1/Nhoc2:jNgonChanCaiPhai2/Nhoc2:jNgonChanCaiPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanDanhPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanDanhPhai1/Nhoc2:jNgonChanDanhPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanDanhPhai1/Nhoc2:jNgonChanDanhPhai2/Nhoc2:jNgonChanDanhPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanDanhPhai1/Nhoc2:jNgonChanDanhPhai2/Nhoc2:jNgonChanDanhPhai3/Nhoc2:jNgonChanDanhPhai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanGiuaPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanGiuaPhai1/Nhoc2:jNgonChanGiuaPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanGiuaPhai1/Nhoc2:jNgonChanGiuaPhai2/Nhoc2:jNgonChanGiuaPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanGiuaPhai1/Nhoc2:jNgonChanGiuaPhai2/Nhoc2:jNgonChanGiuaPhai3/Nhoc2:jNgonChanGiuaPhai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanTroPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanTroPhai1/Nhoc2:jNgonChanTroPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanTroPhai1/Nhoc2:jNgonChanTroPhai2/Nhoc2:jNgonChanTroPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanTroPhai1/Nhoc2:jNgonChanTroPhai2/Nhoc2:jNgonChanTroPhai3/Nhoc2:jNgonChanTroPhai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanUtPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanUtPhai1/Nhoc2:jNgonChanUtPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanUtPhai1/Nhoc2:jNgonChanUtPhai2/Nhoc2:jNgonChanUtPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:joint37/Nhoc2:jNgonChanUtPhai1/Nhoc2:jNgonChanUtPhai2/Nhoc2:jNgonChanUtPhai3/Nhoc2:jNgonChanUtPhai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanPhai/Nhoc2:jGoiPhai/Nhoc2:jGotChanPhai/Nhoc2:rt_BanChanPhai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanCaiTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanCaiTrai1/Nhoc2:jNgonChanCaiTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanCaiTrai1/Nhoc2:jNgonChanCaiTrai2/Nhoc2:jNgonChanCaiTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanDanhTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanDanhTrai1/Nhoc2:jNgonChanDanhTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanDanhTrai1/Nhoc2:jNgonChanDanhTrai2/Nhoc2:jNgonChanDanhTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanDanhTrai1/Nhoc2:jNgonChanDanhTrai2/Nhoc2:jNgonChanDanhTrai3/Nhoc2:jNgonChanDanhTrai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanGiuaTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanGiuaTrai1/Nhoc2:jNgonChanGiuaTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanGiuaTrai1/Nhoc2:jNgonChanGiuaTrai2/Nhoc2:jNgonChanGiuaTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanGiuaTrai1/Nhoc2:jNgonChanGiuaTrai2/Nhoc2:jNgonChanGiuaTrai3/Nhoc2:jNgonChanGiuaTrai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanTroTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanTroTrai1/Nhoc2:jNgonChanTroTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanTroTrai1/Nhoc2:jNgonChanTroTrai2/Nhoc2:jNgonChanTroTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanTroTrai1/Nhoc2:jNgonChanTroTrai2/Nhoc2:jNgonChanTroTrai3/Nhoc2:jNgonChanTroTrai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanUtTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanUtTrai1/Nhoc2:jNgonChanUtTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanUtTrai1/Nhoc2:jNgonChanUtTrai2/Nhoc2:jNgonChanUtTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:jBanChanTrai/Nhoc2:jNgonChanUtTrai1/Nhoc2:jNgonChanUtTrai2/Nhoc2:jNgonChanUtTrai3/Nhoc2:jNgonChanUtTrai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jChanTrai/Nhoc2:jGoiChanTrai/Nhoc2:jGotChanTrai/Nhoc2:rt_BanChanTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayCaiPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayCaiPhai1/Nhoc2:jNgonTayCaiPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayCaiPhai1/Nhoc2:jNgonTayCaiPhai2/Nhoc2:jNgonTayCaiPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayCaiPhai1/Nhoc2:jNgonTayCaiPhai2/Nhoc2:jNgonTayCaiPhai3/Nhoc2:jNgonTayCaiPhai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayDanhPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayDanhPhai1/Nhoc2:jNgonTayDanhPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayDanhPhai1/Nhoc2:jNgonTayDanhPhai2/Nhoc2:jNgonTayDanhPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayDanhPhai1/Nhoc2:jNgonTayDanhPhai2/Nhoc2:jNgonTayDanhPhai3/Nhoc2:jNgonTayDanhPhai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayGiuaPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayGiuaPhai1/Nhoc2:jNgonTayGiuaPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayGiuaPhai1/Nhoc2:jNgonTayGiuaPhai2/Nhoc2:jNgonTayGiuaPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayGiuaPhai1/Nhoc2:jNgonTayGiuaPhai2/Nhoc2:jNgonTayGiuaPhai3/Nhoc2:jNgonTayGiuaPhai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayTroPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayTroPhai1/Nhoc2:jNgonTayTroPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayTroPhai1/Nhoc2:jNgonTayTroPhai2/Nhoc2:jNgonTayTroPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayTroPhai1/Nhoc2:jNgonTayTroPhai2/Nhoc2:jNgonTayTroPhai3/Nhoc2:jNgonTayTroPhai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayUtPhai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayUtPhai1/Nhoc2:jNgonTayUtPhai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayUtPhai1/Nhoc2:jNgonTayUtPhai2/Nhoc2:jNgonTayUtPhai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiPhai/Nhoc2:jChoTayPhai/Nhoc2:jBanTayPhai/Nhoc2:jNgonTayUtPhai1/Nhoc2:jNgonTayUtPhai2/Nhoc2:jNgonTayUtPhai3/Nhoc2:jNgonTayUtPhai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayCaiTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayCaiTrai1/Nhoc2:jNgonTayCaiTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayCaiTrai1/Nhoc2:jNgonTayCaiTrai2/Nhoc2:jNgonTayCaiTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayCaiTrai1/Nhoc2:jNgonTayCaiTrai2/Nhoc2:jNgonTayCaiTrai3/Nhoc2:jNgonTayCaiTrai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayDanhTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayDanhTrai1/Nhoc2:jNgonTayDanhTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayDanhTrai1/Nhoc2:jNgonTayDanhTrai2/Nhoc2:jNgonTayDanhTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayDanhTrai1/Nhoc2:jNgonTayDanhTrai2/Nhoc2:jNgonTayDanhTrai3/Nhoc2:jNgonTayDanhTrai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayGiuaTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayGiuaTrai1/Nhoc2:jNgonTayGiuaTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayGiuaTrai1/Nhoc2:jNgonTayGiuaTrai2/Nhoc2:jNgonTayGiuaTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayGiuaTrai1/Nhoc2:jNgonTayGiuaTrai2/Nhoc2:jNgonTayGiuaTrai3/Nhoc2:jNgonTayGiuaTrai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayTroTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayTroTrai1/Nhoc2:jNgonTayTroTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayTroTrai1/Nhoc2:jNgonTayTroTrai2/Nhoc2:jNgonTayTroTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayTroTrai1/Nhoc2:jNgonTayTroTrai2/Nhoc2:jNgonTayTroTrai3/Nhoc2:jNgonTayTroTrai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayUtTrai1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayUtTrai1/Nhoc2:jNgonTayUtTrai2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayUtTrai1/Nhoc2:jNgonTayUtTrai2/Nhoc2:jNgonTayUtTrai3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jTraiTrai/Nhoc2:jChoTayTrai/Nhoc2:jBanTayTrai/Nhoc2:jNgonTayUtTrai1/Nhoc2:jNgonTayUtTrai2/Nhoc2:jNgonTayUtTrai3/Nhoc2:jNgonTayUtTrai4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Ctrl_MatPhai_Tren
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Ctrl_MatPhai_Tren/Nhoc2:Chan:Ctr_MatPhaiTrenl_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Ctrl_MatPhaiDuoi
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Ctrl_MatPhaiDuoi/Nhoc2:Chan:Ctrl_MatPhaiDuoi_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Ctrl_MatTrai_Tren
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Ctrl_MatTrai_Tren/Nhoc2:Chan:Ctrl_MatTraiTren_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Ctrl_MatTraiiDuoi
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Ctrl_MatTraiiDuoi/Nhoc2:Chan:Ctrl_MatTraiDuoi_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_A_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_A_1/Nhoc2:Chan:curve37
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_A_1/Nhoc2:Chan:curve38
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_B_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_B_1/Nhoc2:Chan:curve39
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_B_1/Nhoc2:Chan:curve40
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_B_1/Nhoc2:Chan:curve41
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_E_6
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_E_6/Nhoc2:Chan:curve45
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_O_4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_O_4/Nhoc2:Chan:curve42
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_O_4/Nhoc2:Chan:curve43
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_V_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_ABOVE_1/Nhoc2:Chan:Char_V_2/Nhoc2:Chan:curve44
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_B_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_B_2/Nhoc2:Chan:curve46
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_B_2/Nhoc2:Chan:curve47
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_B_2/Nhoc2:Chan:curve48
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_E_7
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_E_7/Nhoc2:Chan:curve49
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_L_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_L_2/Nhoc2:Chan:curve50
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_O_5
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_O_5/Nhoc2:Chan:curve51
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_O_5/Nhoc2:Chan:curve52
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_W_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_BELOW_1/Nhoc2:Chan:Char_W_1/Nhoc2:Chan:curve53
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_EYES_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_EYES_1/Nhoc2:Chan:Char_E_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_EYES_1/Nhoc2:Chan:Char_E_1/Nhoc2:Chan:curve3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_EYES_1/Nhoc2:Chan:Char_E_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_EYES_1/Nhoc2:Chan:Char_E_2/Nhoc2:Chan:curve5
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_EYES_1/Nhoc2:Chan:Char_S_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_EYES_1/Nhoc2:Chan:Char_S_1/Nhoc2:Chan:curve6
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_EYES_1/Nhoc2:Chan:Char_Y_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mat/Nhoc2:Chan:Text_EYES_1/Nhoc2:Chan:Char_Y_1/Nhoc2:Chan:curve4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_LeLuoiLen
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_LeLuoiLen/Nhoc2:Chan:Ctrl_LeLuoiTren_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_LeLuoiXuong
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_LeLuoiXuong/Nhoc2:Chan:Ctrl_LeLuoiXuong_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_MoiDuoi
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_MoiDuoi/Nhoc2:Chan:Ctrl_Mieng_Duoi_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_MoiTren
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_MoiTren/Nhoc2:Chan:Ctrl_MoiTren_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_Muoi
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_Muoi/Nhoc2:Chan:Ctrl_Mui_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_NhechMep
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Ctrl_NhechMep/Nhoc2:Chan:Ctrl_NhechMep_Scroll
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1/Nhoc2:Chan:Char_I_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1/Nhoc2:Chan:Char_I_1/Nhoc2:Chan:curve22
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1/Nhoc2:Chan:Char_L_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1/Nhoc2:Chan:Char_L_1/Nhoc2:Chan:curve21
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1/Nhoc2:Chan:Char_P_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1/Nhoc2:Chan:Char_P_1/Nhoc2:Chan:curve23
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1/Nhoc2:Chan:Char_P_1/Nhoc2:Chan:curve24
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1/Nhoc2:Chan:Char_S_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_LIPS_1/Nhoc2:Chan:Char_S_2/Nhoc2:Chan:curve25
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_H_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_H_1/Nhoc2:Chan:curve13
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_M_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_M_1/Nhoc2:Chan:curve8
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_O_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_O_1/Nhoc2:Chan:curve9
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_O_1/Nhoc2:Chan:curve10
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_T_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_T_1/Nhoc2:Chan:curve12
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_U_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_MOUTH_1/Nhoc2:Chan:Char_U_1/Nhoc2:Chan:curve11
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1/Nhoc2:Chan:Char_E_4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1/Nhoc2:Chan:Char_E_4/Nhoc2:Chan:curve30
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1/Nhoc2:Chan:Char_N_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1/Nhoc2:Chan:Char_N_2/Nhoc2:Chan:curve26
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1/Nhoc2:Chan:Char_O_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1/Nhoc2:Chan:Char_O_2/Nhoc2:Chan:curve27
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1/Nhoc2:Chan:Char_O_2/Nhoc2:Chan:curve28
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1/Nhoc2:Chan:Char_S_3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_NOSE_1/Nhoc2:Chan:Char_S_3/Nhoc2:Chan:curve29
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_I_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_I_2/Nhoc2:Chan:curve33
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_K_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_K_1/Nhoc2:Chan:curve36
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_M_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_M_2/Nhoc2:Chan:curve32
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_R_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_R_2/Nhoc2:Chan:curve34
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_R_2/Nhoc2:Chan:curve35
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_S_4
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_SMIRK_1/Nhoc2:Chan:Char_S_4/Nhoc2:Chan:curve31
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_E_8
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_E_8/Nhoc2:Chan:curve60
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_G_1
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_G_1/Nhoc2:Chan:curve58
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_N_3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_N_3/Nhoc2:Chan:curve57
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_O_6
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_O_6/Nhoc2:Chan:curve55
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_O_6/Nhoc2:Chan:curve56
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_T_2
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_T_2/Nhoc2:Chan:curve54
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_U_3
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:C_BangDieuKhienMat/Nhoc2:Chan:C_Mieng/Nhoc2:Chan:Text_TONGUE_1/Nhoc2:Chan:Char_U_3/Nhoc2:Chan:curve59
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_DK_Ham
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_DK_Ham/Nhoc2:mv_HamDuoi
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_DK_Ham/Nhoc2:mv_HamTren
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_Mat
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_Mat/Nhoc2:G_MatPhai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_Mat/Nhoc2:G_MatPhai/Nhoc2:S_TrongDen
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_Mat/Nhoc2:G_MatPhai/Nhoc2:S_TrongTrang
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_Mat/Nhoc2:G_MatTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_Mat/Nhoc2:G_MatTrai/Nhoc2:S_TrongDenTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:G_Mat/Nhoc2:G_MatTrai/Nhoc2:S_TrongTrangTrai
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:jHamDuoi
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:jHamTren
+        weight: 1
+      - path: Nhoc2:jXuong/Nhoc2:jDotSong2/Nhoc2:jDotSong3/Nhoc2:jDotSong4/Nhoc2:jXuongVai/Nhoc2:jXuongCo/Nhoc2:jXuongHam/Nhoc2:joint8
+        weight: 1
+      - path: Nhoc2:left
+        weight: 1
+      - path: Nhoc2:MainMove
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:G_DieuKhienKhop
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:G_DieuKhienKhop/Nhoc2:lt_KhopGoiTrai
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:G_DieuKhienKhop/Nhoc2:lt_KhopGoiTrai1
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:G_DieuKhienKhop/Nhoc2:lt_KhopGoiTrai2
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:G_DieuKhienKhop/Nhoc2:lt_KhopGoiTrai3
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:G_DK_BanTayPhai
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:G_DK_BanTayPhai/Nhoc2:mv_BanTayPhai
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:G_DK_BanTayTrai
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:G_DK_BanTayTrai/Nhoc2:mv_BanTayTrai
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:Hong
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:Hong/Nhoc2:DotSongLung
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:Hong/Nhoc2:DotSongLung/Nhoc2:DotSongLung2
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:Hong/Nhoc2:DotSongLung/Nhoc2:DotSongLung2/Nhoc2:DotSongLung3
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:Hong/Nhoc2:DotSongLung/Nhoc2:DotSongLung2/Nhoc2:DotSongLung3/Nhoc2:DotSongLung4
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:Hong/Nhoc2:DotSongLung/Nhoc2:DotSongLung2/Nhoc2:DotSongLung3/Nhoc2:DotSongLung4/Nhoc2:DotSongLung5
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:Hong/Nhoc2:DotSongLung/Nhoc2:DotSongLung2/Nhoc2:DotSongLung3/Nhoc2:DotSongLung4/Nhoc2:G_Vai
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:Hong/Nhoc2:DotSongLung/Nhoc2:DotSongLung2/Nhoc2:DotSongLung3/Nhoc2:DotSongLung4/Nhoc2:G_Vai/Nhoc2:Vai_Phai
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:Hong/Nhoc2:DotSongLung/Nhoc2:DotSongLung2/Nhoc2:DotSongLung3/Nhoc2:DotSongLung4/Nhoc2:G_Vai/Nhoc2:Vai_Trai
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:mv_BanChanPhai
+        weight: 1
+      - path: Nhoc2:MainMove/Nhoc2:mv_BanChanTrai
+        weight: 1
+      - path: Nhoc2:persp1
+        weight: 1
+      - path: Nhoc2:S_Minh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

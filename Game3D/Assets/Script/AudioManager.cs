@@ -4,22 +4,50 @@ using System.Collections;
 public class AudioManager : MonoBehaviour {
 
 	public static AudioManager instance;
-	private AudioSource audioSource;
+	[SerializeField]
+	private AudioSource audioSourceOneShot;
+	[SerializeField]
+	private AudioSource audioSourceBG;
 	[SerializeField]
 	private AudioClip coinS;
 	[SerializeField]
 	private AudioClip hitS;
+	[SerializeField]
+	private AudioClip jumpS;
+	[SerializeField]
+	private AudioClip jump2S;
+	[SerializeField]
+	private AudioClip jump5S;
+	[SerializeField]
+	private AudioClip winS;
 	// Use this for initialization
 	void Awake () {
 		instance = this;
-		audioSource = GetComponent<AudioSource> ();
+		audioSourceOneShot = GetComponent<AudioSource> ();
 	}
 
 	public void coinSound(){
-		audioSource.PlayOneShot (coinS);
+		audioSourceOneShot.PlayOneShot (coinS);
 	}
 
 	public void hitSound(){
-		audioSource.PlayOneShot (hitS);
+		audioSourceOneShot.PlayOneShot (hitS);
 	}
+
+	public void jumpSound(){
+		audioSourceOneShot.PlayOneShot (jumpS);
+	}
+
+	public void jump2Sound(){
+		audioSourceOneShot.PlayOneShot (jump2S);
+	}
+
+	public void jump5Sound(){
+		audioSourceOneShot.PlayOneShot (jump5S);
+	}
+
+	public void winSound(){
+		audioSourceOneShot.PlayOneShot (winS);
+	}
+
 }

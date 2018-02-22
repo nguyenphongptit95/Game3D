@@ -10,8 +10,11 @@ public class CoinSpawner : MonoBehaviour {
 		size = 0;
 	}
 
-	// Update is called once per frame
-	void Update () {
+	void Start () {
+		StartCoroutine (iEUp());
+	}
+
+	IEnumerator iEUp(){
 		Vector3 chac = Character.instance.transform.localPosition;
 		//Debug.Log (chac.z);
 		for (int i = 0; i < size; i++) {
@@ -21,7 +24,7 @@ public class CoinSpawner : MonoBehaviour {
 					listCoin [i].hide();
 					//Debug.Log (1);
 				}
-				else if (coin.z - chac.z  < 20) { // phia truoc
+				else if (coin.z - chac.z  < GameManager.seeFar - 10) { // phia truoc
 					listCoin [i].appear();
 					//Debug.Log (2);
 				}
@@ -31,7 +34,10 @@ public class CoinSpawner : MonoBehaviour {
 				}
 			}
 		}
+		yield return new WaitForSeconds (GameManager.loopTimeOpt);
+		StartCoroutine (iEUp());
 	}
+
 
 	public static void add(Coin c){
 		listCoin [size++] = c;

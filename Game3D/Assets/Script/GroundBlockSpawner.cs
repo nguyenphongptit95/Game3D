@@ -9,17 +9,21 @@ public class GroundBlockSpawner : MonoBehaviour {
 		size = 0;
 	}
 	// Update is called once per frame
-	void Update () {
+	void Start () {
+		StartCoroutine (iEUp());
+	}
+
+	IEnumerator iEUp(){
 		Vector3 chac = Character.instance.transform.localPosition;
 		//Debug.Log (chac.z);
 		for (int i = 0; i < size; i++) {
 			if (listBlock [i] != null) {
 				Vector3 block = listBlock [i].transform.localPosition;
-				if (chac.z - block.z > 10) { // phia sau
+				if (chac.z - block.z > 11) { // phia sau
 					listBlock [i].hide();
 					//Debug.Log (1);
 				}
-				else if (block.z - chac.z  < 50) { // phia truoc
+				else if (block.z - chac.z  < GameManager.seeFar) { // phia truoc
 					listBlock [i].appear();
 					//Debug.Log (2);
 				}
@@ -29,6 +33,8 @@ public class GroundBlockSpawner : MonoBehaviour {
 				}
 			}
 		}
+		yield return new WaitForSeconds (GameManager.loopTimeOpt);
+		StartCoroutine (iEUp());
 	}
 
 	public static void add(GroundBlock c){

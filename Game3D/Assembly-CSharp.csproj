@@ -38,30 +38,49 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>D:/Program files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>D:/Program files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+      <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GameObjects\MaDen\BlackGhost.cs" />
+     <Compile Include="Assets\GameObjects\Water\Water\Scripts\Displace.cs" />
+     <Compile Include="Assets\GameObjects\Water\Water\Scripts\GerstnerDisplace.cs" />
+     <Compile Include="Assets\GameObjects\Water\Water\Scripts\MeshContainer.cs" />
+     <Compile Include="Assets\GameObjects\Water\Water\Scripts\PlanarReflection.cs" />
+     <Compile Include="Assets\GameObjects\Water\Water\Scripts\SpecularLighting.cs" />
+     <Compile Include="Assets\GameObjects\Water\Water\Scripts\Water.cs" />
+     <Compile Include="Assets\GameObjects\Water\Water\Scripts\WaterBase.cs" />
+     <Compile Include="Assets\GameObjects\Water\Water\Scripts\WaterTile.cs" />
      <Compile Include="Assets\GameObjects\Xu\Scripts\Coin.cs" />
      <Compile Include="Assets\Script\AudioManager.cs" />
+     <Compile Include="Assets\Script\BlackGhostSpawner.cs" />
      <Compile Include="Assets\Script\Character.cs" />
      <Compile Include="Assets\Script\CoinSpawner.cs" />
      <Compile Include="Assets\Script\GameManager.cs" />
+     <Compile Include="Assets\Script\GamePlayController.cs" />
      <Compile Include="Assets\Script\GroundBlock.cs" />
      <Compile Include="Assets\Script\GroundBlockSpawner.cs" />
      <Compile Include="Assets\Script\JoyStick.cs" />
      <Compile Include="Assets\Script\JumpPad.cs" />
      <Compile Include="Assets\Script\JumpPadSpawner.cs" />
      <Compile Include="Assets\Script\MainMenuController.cs" />
+     <Compile Include="Assets\Script\Ramie.cs" />
+     <Compile Include="Assets\Script\RamieSpawner.cs" />
      <Compile Include="Assets\Script\ScoreDisplay.cs" />
+     <Compile Include="Assets\Script\Tru.cs" />
+     <Compile Include="Assets\Script\TruSpawner.cs" />
+     <None Include="Assets\GameObjects\Water\Water4\Shaders\FXWater4Simple.shader" />
+     <None Include="Assets\GameObjects\Water\Water\Shaders\FXWaterPro.shader" />
+     <None Include="Assets\GameObjects\Water\Water4\Shaders\WaterInclude.cginc" />
+     <None Include="Assets\GameObjects\Water\Water4\Shaders\FXWater4Advanced.shader" />
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Program files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
- <HintPath>D:/Program files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
