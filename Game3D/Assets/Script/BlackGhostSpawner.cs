@@ -19,6 +19,10 @@ public class BlackGhostSpawner : MonoBehaviour {
 		for (int i = 0; i < size; i++) {
 			if (listGhost [i] != null) {
 				Vector3 ghost = listGhost [i].transform.localPosition;
+				/*if (Mathf.Abs (chac.x - ghost.x) > GameManager.seeWidth) {
+					listGhost [i].hide();
+					continue;
+				}*/
 				if (chac.z - ghost.z > 10) { // phia sau
 					listGhost [i].hide();
 					//Debug.Log (1);

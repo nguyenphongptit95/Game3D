@@ -19,6 +19,12 @@ public class GroundBlockSpawner : MonoBehaviour {
 		for (int i = 0; i < size; i++) {
 			if (listBlock [i] != null) {
 				Vector3 block = listBlock [i].transform.localPosition;
+
+				/*if (Mathf.Abs (chac.x - block.x) > GameManager.seeWidth) {
+					listBlock [i].hide();
+					continue;
+				}
+*/
 				if (chac.z - block.z > 11) { // phia sau
 					listBlock [i].hide();
 					//Debug.Log (1);

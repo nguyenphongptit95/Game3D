@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour {
 	public static GameManager instance;
 	public static int moveMap = 0; // -1 - left 1 right
 	public static int seeFar = 30;
+	public static int seeWidth = 10;
 	public static float loopTimeOpt = 1f;
 	private int score;
 
