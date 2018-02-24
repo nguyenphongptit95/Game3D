@@ -7,6 +7,7 @@ public class Character : MonoBehaviour {
 	private Rigidbody myBody;
 	private float jumpVel = 250f;
 	private float moveVel = .1f;
+	public float velDefault = 3f;
 	private float vel = 3f;
 	private float velJump = 3f;
 	private float velRun = 5f;
@@ -19,7 +20,8 @@ public class Character : MonoBehaviour {
 	[SerializeField]
 	private bool started;
 	private bool isAlive;
-
+	public float jumpingTo;
+	private Vector3 v3ReRun;
 	void Awake(){
 		instance = this;
 		isGround = true;
@@ -27,12 +29,25 @@ public class Character : MonoBehaviour {
 		isMoving = false;
 		started = false;
 		isAlive = true;
+		jumpingTo = 0;
 		myBody = gameObject.GetComponent<Rigidbody> ();
 		anim = gameObject.GetComponent<Animator> ();
+		v3ReRun = myBody.transform.localPosition;
 	}
 	// Use this for initialization
 	void Start () {
 	
+	}
+
+	public void setVelToDefault(){
+		this.vel = velDefault;
+	}
+
+
+	public void setVel(float vel){
+		this.vel = vel;
+		this.velRun = vel;
+		this.velJump = 3f / 5f * vel;
 	}
 
 	public void begin(){
@@ -161,6 +176,25 @@ public class Character : MonoBehaviour {
 		if (c.tag.StartsWith ("JumpPad")) {
 			float super = float.Parse(tag.Substring(7));
 			jumpPad(super);
+		} else if (c.tag.StartsWith ("JumpLeftPad")) {
+			jumpingTo = float.Parse(tag.Substring(12, 3));
+			float super = float.Parse(tag.Substring(11, 1));
+			jumpPad(super);
+			// move to 0
+			timeStartMove = Time.time;
+			isMoving = true;
+			indexGround = 0;
+		} else if (c.tag.StartsWith ("JumpRightPad")) {
+			jumpingTo = float.Parse(tag.Substring(13, 3));
+			float super = float.Parse(tag.Substring(12, 1));
+			jumpPad(super);
+			// move to 0
+			timeStartMove = Time.time;
+			isMoving = true;
+			indexGround = 0;
+		} else if (c.tag.StartsWith ("ReRun")) {
+			jumpPad(2);
+			myBody.transform.localPosition = v3ReRun;
 		}
 	}
 

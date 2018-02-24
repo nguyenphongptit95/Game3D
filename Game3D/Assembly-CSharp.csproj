@@ -66,6 +66,7 @@
      <Compile Include="Assets\Script\JoyStick.cs" />
      <Compile Include="Assets\Script\JumpPad.cs" />
      <Compile Include="Assets\Script\JumpPadSpawner.cs" />
+     <Compile Include="Assets\Script\MAP.cs" />
      <Compile Include="Assets\Script\MainMenuController.cs" />
      <Compile Include="Assets\Script\Ramie.cs" />
      <Compile Include="Assets\Script\RamieSpawner.cs" />
