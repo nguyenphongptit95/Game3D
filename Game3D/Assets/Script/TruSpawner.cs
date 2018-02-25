@@ -19,6 +19,15 @@ public class TruSpawner : MonoBehaviour {
 		for (int i = 0; i < size; i++) {
 			if (listTru [i] != null) {
 				Vector3 tru = listTru [i].transform.localPosition;
+				if (Mathf.Abs (chac.x - tru.x - MAP.x()) > GameManager.seeWidth) {
+					listTru [i].hide ();
+					continue;
+				}
+				if (Mathf.Abs (chac.y - tru.y - MAP.y()) > GameManager.seeHeight) {
+					listTru [i].hide ();
+					continue;
+				}
+
 				if (chac.z - tru.z > 10) { // phia sau
 					listTru [i].hide();
 					//Debug.Log (1);

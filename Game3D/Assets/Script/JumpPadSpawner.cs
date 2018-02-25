@@ -19,6 +19,15 @@ public class JumpPadSpawner : MonoBehaviour {
 		for (int i = 0; i < size; i++) {
 			if (listJump [i] != null) {
 				Vector3 jump = listJump [i].transform.localPosition;
+				if (Mathf.Abs (chac.x - jump.x - MAP.x()) > GameManager.seeWidth) {
+					listJump [i].hide ();
+					continue;
+				}
+				/*if (Mathf.Abs (chac.y - jump.y - MAP.y()) > GameManager.seeHeight) {
+					listJump [i].hide ();
+					continue;
+				}*/
+
 				if (chac.z - jump.z > 10) { // phia sau
 					listJump [i].hide();
 					//Debug.Log (1);

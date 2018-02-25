@@ -19,6 +19,15 @@ public class RamieSpawner : MonoBehaviour {
 		for (int i = 0; i < size; i++) {
 			if (listRamie [i] != null) {
 				Vector3 ramie = listRamie [i].transform.localPosition;
+				if (Mathf.Abs (chac.x - ramie.x - MAP.x()) > GameManager.seeWidth) {
+					listRamie [i].hide ();
+					continue;
+				}
+				if (Mathf.Abs (chac.y - ramie.y - MAP.y()) > GameManager.seeHeight) {
+					listRamie [i].hide ();
+					continue;
+				}
+
 				if (chac.z - ramie.z > 10) { // phia sau
 					listRamie [i].hide();
 					//Debug.Log (1);

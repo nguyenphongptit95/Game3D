@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class MAP : MonoBehaviour {
+	public static MAP instance;
 	private float vel;
 	private float lastPositionX;
 	private float timeStart = 0f;
@@ -11,7 +12,32 @@ public class MAP : MonoBehaviour {
 		vel = 5f;
 		lastPositionX = 0f;
 	}
-	
+
+	void Start(){
+		instance = this;
+	}
+
+	public static float x(){
+		if (instance == null)
+			return 0;
+		float x = instance.gameObject.transform.localPosition.x;
+		return x;
+	}
+
+	public static float y(){
+		if (instance == null)
+			return 0;
+		float y = instance.gameObject.transform.localPosition.y;
+		return y;
+	}
+
+	public static float z(){
+		if (instance == null)
+			return 0;
+		float z = instance.gameObject.transform.localPosition.z;
+		return z;
+	}
+
 	// Update is called once per frame
 	void Update () {
 		float jumpingTo = -1 * Character.instance.jumpingTo;

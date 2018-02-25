@@ -20,10 +20,16 @@ public class CoinSpawner : MonoBehaviour {
 		for (int i = 0; i < size; i++) {
 			if (listCoin [i] != null) {
 				Vector3 coin = listCoin [i].transform.localPosition;
-				/*if (Mathf.Abs (chac.x - coin.x) > GameManager.seeWidth) {
-					listCoin [i].hide();
+
+				if (Mathf.Abs (chac.x - coin.x - MAP.x()) > GameManager.seeWidth) {
+					listCoin [i].hide ();
 					continue;
-				}*/
+				}
+				if (Mathf.Abs (chac.y - coin.y - MAP.y()) > GameManager.seeHeight) {
+					listCoin [i].hide ();
+					continue;
+				}
+
 				if (chac.z - coin.z > 2) { // phia sau
 					listCoin [i].hide();
 					//Debug.Log (1);
