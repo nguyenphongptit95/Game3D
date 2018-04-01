@@ -1159,7 +1159,7 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleRotations: 1
-    optimizeGameObjects: 0
+    optimizeGameObjects: 1
     motionNodeName: 
     animationImportErrors: 
     animationImportWarnings: 
@@ -1170,7 +1170,20 @@ ModelImporter:
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
-    extraExposedTransformPaths: []
+    extraExposedTransformPaths:
+    - Nhoc2:back
+    - Nhoc2:BanTay:left
+    - Nhoc2:bottom
+    - Nhoc2:G_Sharp
+    - Nhoc2:ikHandle3
+    - Nhoc2:ikHandle4
+    - Nhoc2:ikHandle5
+    - Nhoc2:ikHandle6
+    - Nhoc2:jXuong
+    - Nhoc2:left
+    - Nhoc2:MainMove
+    - Nhoc2:persp1
+    - Nhoc2:S_Minh
     clipAnimations:
     - serializedVersion: 16
       name: Idle

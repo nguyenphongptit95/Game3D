@@ -23,7 +23,7 @@ public class TruSpawner : MonoBehaviour {
 					listTru [i].hide ();
 					continue;
 				}
-				if (Mathf.Abs (chac.y - tru.y - MAP.y()) > GameManager.seeHeight) {
+				if (Mathf.Abs (chac.y - tru.y - MAP.y()) > GameManager.seeHeight * 2) {
 					listTru [i].hide ();
 					continue;
 				}

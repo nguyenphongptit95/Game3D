@@ -30,7 +30,7 @@ public class GroundBlockSpawner : MonoBehaviour {
 				}*/
 
 
-				if (chac.z - block.z > 11) { // phia sau
+				if (chac.z - block.z > 12) { // phia sau
 					listBlock [i].hide();
 					//Debug.Log (1);
 				}

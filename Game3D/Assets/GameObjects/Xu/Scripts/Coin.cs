@@ -38,8 +38,8 @@ public class Coin : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
-		alpha = alpha == 360 ? 0 : (alpha + alphaSpeed);
-		myBody.transform.rotation = Quaternion.AngleAxis(alpha, Vector3.up);
+		//alpha = alpha == 360 ? 0 : (alpha + alphaSpeed);
+		//myBody.transform.rotation = Quaternion.AngleAxis(alpha, Vector3.up);
 	}
 	
 	public void jump(){

@@ -6,15 +6,18 @@ public class GameManager : MonoBehaviour {
 
 	public static GameManager instance;
 	public static int moveMap = 0; // -1 - left 1 right
-	public static int seeFar = 30;
-	public static int seeWidth = 10;
+	public static int seeFar = 25;
+	public static int seeWidth = 5;
 	public static int seeHeight = 5;
 	public static float loopTimeOpt = 1f;
+	public static int map = 1;
+	public static int life = 3;
 	private int score;
 
 	void Awake () {
 		if (instance == null) {
 			instance = this;
+			life = 3;
 		} else {
 			Destroy (gameObject);
 		}			
@@ -41,7 +44,7 @@ public class GameManager : MonoBehaviour {
 	
 	}
 
-	public void newGame(){
+	public void newGame(int map){
 		CoinSpawner.reset ();//
 		GroundBlockSpawner.reset ();//
 		JumpPadSpawner.reset ();//
@@ -49,6 +52,7 @@ public class GameManager : MonoBehaviour {
 		RamieSpawner.reset();
 		BlackGhostSpawner.reset ();
 		TruSpawner.reset ();
+		GameManager.map = map;
 	}
 
 	public void finish(){
@@ -57,6 +61,6 @@ public class GameManager : MonoBehaviour {
 
 	IEnumerator iEFinish(){
 		yield return new WaitForSeconds (6);
-		SceneManager.LoadScene("MainMenu");
+		SceneManager.LoadScene("QuaMan");
 	}
 }

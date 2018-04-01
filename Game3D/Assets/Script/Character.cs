@@ -12,6 +12,8 @@ public class Character : MonoBehaviour {
 	private float velJump = 3f;
 	private float velRun = 5f;
 	private float timeOut = .23f;
+	private float maxX = 0;
+	private float minX = 0;
 	private bool isGround;	
 	public int indexGround;
 	private bool isMoving;
@@ -67,7 +69,7 @@ public class Character : MonoBehaviour {
 	}
 	
 	public void moveLeft(){
-		if (indexGround > -2) {
+		if (indexGround > minX) {
 			timeStartMove = Time.time;
 			isMoving = true;
 			indexGround--;
@@ -75,11 +77,20 @@ public class Character : MonoBehaviour {
 	}
 
 	public void moveRight(){
-		if (indexGround < 2) {
+		if (indexGround < maxX) {
 			timeStartMove = Time.time;
 			isMoving = true;
 			indexGround++;
 		}
+	}
+
+	public void setMaxX(float x){
+		this.maxX = x;
+	}
+
+
+	public void setMinX(float x){
+		this.minX = x;
 	}
 
 	public void move(){	
@@ -135,7 +146,8 @@ public class Character : MonoBehaviour {
 
 	IEnumerator die(){
 		yield return new WaitForSeconds (2);
-		SceneManager.LoadScene("MainMenu");
+		GameManager.life--;
+		SceneManager.LoadScene("EndGame");
 	}
 
 	void OnCollisionEnter(Collision c){
@@ -157,6 +169,10 @@ public class Character : MonoBehaviour {
 			death ();
 			break;
 		case "BlackGhost":
+			AudioManager.instance.hitSound ();
+			death ();
+			break;
+		case "MaXuong":
 			AudioManager.instance.hitSound ();
 			death ();
 			break;
@@ -195,6 +211,9 @@ public class Character : MonoBehaviour {
 		} else if (c.tag.StartsWith ("ReRun")) {
 			jumpPad(2);
 			myBody.transform.localPosition = v3ReRun;
+		} else if (c.tag.StartsWith ("Ramie")){
+			AudioManager.instance.hitSound ();
+			death ();
 		}
 	}
 

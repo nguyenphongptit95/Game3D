@@ -1,0 +1,1470 @@
+fileFormatVersion: 2
+guid: 5be2ef5139b67aa498a66e593033ec5b
+timeCreated: 1521733445
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: back1
+    100004: bottom
+    100006: BoXuong06_01:Group26
+    100008: BoXuong06_01:Group27
+    100010: BoXuong06_01:Group28
+    100012: BoXuong06_01:Group30
+    100014: BoXuong06_01:Group31
+    100016: BoXuong06_01:Group32
+    100018: BoXuong06_01:Group34
+    100020: BoXuong06_01:Group35
+    100022: BoXuong06_01:Group37
+    100024: BoXuong06_01:Group41
+    100026: BoXuong06_01:Group43
+    100028: BoXuong06_01:Group45
+    100030: BoXuong06_01:Group47
+    100032: BoXuong06_01:Group49
+    100034: BoXuong06_01:Group51
+    100036: BoXuong06_01:Group52
+    100038: BoXuong06_01:Group53
+    100040: BoXuong06_01:Group55
+    100042: BoXuong06_01:Group57
+    100044: BoXuong06_01:Group59
+    100046: BoXuong06_01:Group61
+    100048: BoXuong06_01:Group63
+    100050: BoXuong06_01:Group64
+    100052: BoXuong06_01:Group65
+    100054: BoXuong06_01:Group66
+    100056: BoXuong06_01:Group67
+    100058: BoXuong06_01:Group68
+    100060: Codot10
+    100062: Codot11
+    100064: Codot12
+    100066: CotSong1
+    100068: CotSong2
+    100070: CotSong3
+    100072: CotSong4
+    100074: CotSong5
+    100076: CotSong6
+    100078: CotSong7
+    100080: CotSong8
+    100082: CotSong9
+    100084: G_BanTayTrai
+    100086: G_BanTayTrai 1
+    100088: G_BanTayTrai 2
+    100090: G_Chan
+    100092: G_ChanPhai
+    100094: G_ChanPhai 1
+    100096: G_ChanTrai
+    100098: G_Control
+    100100: G_DKChanTrai
+    100102: G_KhuyChan
+    100104: G_KhuyChan_Phai
+    100106: G_Model
+    100108: G_NgonCai
+    100110: G_NgonCai 1
+    100112: G_NgonCai 2
+    100114: G_NgonCai 3
+    100116: G_NgonCai_Trai
+    100118: G_NgonDanh
+    100120: G_NgonDanh 1
+    100122: G_NgonDanh 2
+    100124: G_NgonDanh 3
+    100126: G_NgonDanh_Trai
+    100128: G_NgonGiua
+    100130: G_NgonGiua 1
+    100132: G_NgonGiua 2
+    100134: G_NgonGiua 3
+    100136: G_NgonGiua_Trai
+    100138: G_NgonTro
+    100140: G_NgonTro 1
+    100142: G_NgonTro 2
+    100144: G_NgonTro 3
+    100146: G_NgonTro_Trai
+    100148: G_NgonUt
+    100150: G_NgonUt 1
+    100152: G_NgonUt 2
+    100154: G_NgonUt 3
+    100156: G_NgonUt_Trai
+    100158: G_OngTayTrai
+    100160: G_OngTayTrai 1
+    100162: G_OngTayTrai 2
+    100164: G_Rang
+    100166: G_RangDuoi
+    100168: G_RangTren
+    100170: G_Tay
+    100172: G_TayPhai
+    100174: G_TayTrai
+    100176: G_TayTrai1
+    100178: group17
+    100180: group18
+    100182: group19
+    100184: group20
+    100186: Group34
+    100188: Group35
+    100190: group5
+    100192: ikHandle1
+    100194: ikHandle5
+    100196: ikHandle6
+    100198: ikHandle7
+    100200: j_NgonCaiPhai1
+    100202: j_NgonCaiPhai2
+    100204: j_NgonCaiPhai3
+    100206: j_NgonCaiPhai4
+    100208: j_NgonCaiTrai1
+    100210: j_NgonCaiTrai2
+    100212: j_NgonCaiTrai3
+    100214: j_NgonDanhPhai1
+    100216: j_NgonDanhPhai2
+    100218: j_NgonDanhPhai3
+    100220: j_NgonDanhPhai4
+    100222: j_NgonDanhPhai5
+    100224: j_NgonDanhTrai1
+    100226: j_NgonDanhTrai2
+    100228: j_NgonDanhTrai3
+    100230: j_NgonDanhTrai4
+    100232: j_NgonDanhTrai5
+    100234: j_NgonGiuaPhai1
+    100236: j_NgonGiuaPhai2
+    100238: j_NgonGiuaPhai3
+    100240: j_NgonGiuaPhai4
+    100242: j_NgonGiuaPhai5
+    100244: j_NgonGiuaTrai1
+    100246: j_NgonGiuaTrai2
+    100248: j_NgonGiuaTrai3
+    100250: j_NgonGiuaTrai4
+    100252: j_NgonGiuaTrai5
+    100254: j_NgonTroPhai1
+    100256: j_NgonTroPhai2
+    100258: j_NgonTroPhai3
+    100260: j_NgonTroPhai4
+    100262: j_NgonTroPhai5
+    100264: j_NgonTroTrai1
+    100266: j_NgonTroTrai2
+    100268: j_NgonTroTrai3
+    100270: j_NgonTroTrai4
+    100272: j_NgonTroTrai5
+    100274: j_NgonUtPhai1
+    100276: j_NgonUtPhai2
+    100278: j_NgonUtPhai3
+    100280: j_NgonUtPhai4
+    100282: j_NgonUtPhai5
+    100284: j_NgonUtTrai1
+    100286: j_NgonUtTrai2
+    100288: j_NgonUtTrai3
+    100290: j_NgonUtTrai4
+    100292: j_NgonUtTrai5
+    100294: jBanChanPhai1
+    100296: jBanChanPhai2
+    100298: jBanTayPhai
+    100300: jBanTayTrai
+    100302: jChanPhai1
+    100304: jChanPhai2
+    100306: jChoTayPhai
+    100308: jChoTayTrai
+    100310: jCo
+    100312: jGoiChanPhai1
+    100314: jGoiChanPhai2
+    100316: jGotChanPhai1
+    100318: jGotChanPhai2
+    100320: jHamDuoi
+    100322: jMain
+    100324: jNgonCaiPhai1
+    100326: jNgonCaiPhai2
+    100328: jNgonCaiPhai3
+    100330: jNgonCaiPhai4
+    100332: jNgonCaiTrai1
+    100334: jNgonCaiTrai2
+    100336: jNgonCaiTrai3
+    100338: jNgonCaiTrai4
+    100340: jNgonDanhPhai1
+    100342: jNgonDanhPhai2
+    100344: jNgonDanhPhai3
+    100346: jNgonDanhPhai4
+    100348: jNgonDanhPhai5
+    100350: jNgonDanhTrai1
+    100352: jNgonDanhTrai2
+    100354: jNgonDanhTrai3
+    100356: jNgonDanhTrai4
+    100358: jNgonDanhTrai5
+    100360: jNgonGiuaPhai1
+    100362: jNgonGiuaPhai2
+    100364: jNgonGiuaPhai3
+    100366: jNgonGiuaPhai4
+    100368: jNgonGiuaPhai5
+    100370: jNgonGiuaTrai1
+    100372: jNgonGiuaTrai2
+    100374: jNgonGiuaTrai3
+    100376: jNgonGiuaTrai4
+    100378: jNgonGiuaTrai5
+    100380: jNgonTroPhai1
+    100382: jNgonTroPhai2
+    100384: jNgonTroPhai3
+    100386: jNgonTroPhai4
+    100388: jNgonTroPhai5
+    100390: jNgonTroTrai1
+    100392: jNgonTroTrai2
+    100394: jNgonTroTrai3
+    100396: jNgonTroTrai4
+    100398: jNgonTroTrai5
+    100400: jNgonUtPhai1
+    100402: jNgonUtPhai2
+    100404: jNgonUtPhai3
+    100406: jNgonUtPhai4
+    100408: jNgonUtPhai5
+    100410: jNgonUtTrai1
+    100412: jNgonUtTrai2
+    100414: jNgonUtTrai3
+    100416: jNgonUtTrai4
+    100418: jNgonUtTrai5
+    100420: joint13
+    100422: joint2
+    100424: joint3
+    100426: joint4
+    100428: joint5
+    100430: joint6
+    100432: joint7
+    100434: joint8
+    100436: joint96
+    100438: jSo
+    100440: jVai
+    100442: jVaiTayTrai
+    100444: jVaiTrai
+    100446: left
+    100448: lt_KhopSauGoiTrai1
+    100450: lt_KhopSauGoiTrai2
+    100452: //RootNode
+    100454: MainMove
+    100456: mv_BanTayPhai
+    100458: mv_BanTayTrai
+    100460: mv_ChanPhai
+    100462: mv_ChanTrai
+    100464: mv_ChoPhai
+    100466: mv_ChoTrai
+    100468: mv_VaiPhai
+    100470: mv_VaiTrai
+    100472: mv_XuongChau
+    100474: pCube13
+    100476: pCube13 1
+    100478: pCube13 2
+    100480: pCube13 3
+    100482: pCube14
+    100484: pCube14 1
+    100486: pCube15
+    100488: pCube16
+    100490: pCube16 1
+    100492: pCube17
+    100494: pCube17 1
+    100496: pCube17 2
+    100498: pCube3
+    100500: pCube3 1
+    100502: pCube3 2
+    100504: pCube3 3
+    100506: pCylinder34
+    100508: pCylinder34 1
+    100510: pCylinder34 2
+    100512: pCylinder34 3
+    100514: pCylinder35
+    100516: pCylinder35 1
+    100518: pCylinder35 2
+    100520: pCylinder35 3
+    100522: pCylinder35 4
+    100524: pCylinder35 5
+    100526: pCylinder35 6
+    100528: pCylinder35 7
+    100530: pCylinder36
+    100532: pCylinder36 1
+    100534: pCylinder36 2
+    100536: pCylinder36 3
+    100538: pCylinder36 4
+    100540: pCylinder36 5
+    100542: pCylinder37
+    100544: pCylinder37 1
+    100546: pCylinder37 2
+    100548: pCylinder37 3
+    100550: pCylinder37 4
+    100552: pCylinder38
+    100554: pCylinder38 1
+    100556: pCylinder38 2
+    100558: pCylinder38 3
+    100560: pCylinder39
+    100562: pCylinder39 1
+    100564: pCylinder39 2
+    100566: pCylinder40
+    100568: pCylinder40 1
+    100570: pCylinder41
+    100572: pCylinder41 1
+    100574: pCylinder41 2
+    100576: rt_ChanTruocGotTrai1
+    100578: s_Dau
+    100580: s_XuongChau
+    100582: XuongSong
+    100584: XuongSuon
+    400000: back
+    400002: back1
+    400004: bottom
+    400006: BoXuong06_01:Group26
+    400008: BoXuong06_01:Group27
+    400010: BoXuong06_01:Group28
+    400012: BoXuong06_01:Group30
+    400014: BoXuong06_01:Group31
+    400016: BoXuong06_01:Group32
+    400018: BoXuong06_01:Group34
+    400020: BoXuong06_01:Group35
+    400022: BoXuong06_01:Group37
+    400024: BoXuong06_01:Group41
+    400026: BoXuong06_01:Group43
+    400028: BoXuong06_01:Group45
+    400030: BoXuong06_01:Group47
+    400032: BoXuong06_01:Group49
+    400034: BoXuong06_01:Group51
+    400036: BoXuong06_01:Group52
+    400038: BoXuong06_01:Group53
+    400040: BoXuong06_01:Group55
+    400042: BoXuong06_01:Group57
+    400044: BoXuong06_01:Group59
+    400046: BoXuong06_01:Group61
+    400048: BoXuong06_01:Group63
+    400050: BoXuong06_01:Group64
+    400052: BoXuong06_01:Group65
+    400054: BoXuong06_01:Group66
+    400056: BoXuong06_01:Group67
+    400058: BoXuong06_01:Group68
+    400060: Codot10
+    400062: Codot11
+    400064: Codot12
+    400066: CotSong1
+    400068: CotSong2
+    400070: CotSong3
+    400072: CotSong4
+    400074: CotSong5
+    400076: CotSong6
+    400078: CotSong7
+    400080: CotSong8
+    400082: CotSong9
+    400084: G_BanTayTrai
+    400086: G_BanTayTrai 1
+    400088: G_BanTayTrai 2
+    400090: G_Chan
+    400092: G_ChanPhai
+    400094: G_ChanPhai 1
+    400096: G_ChanTrai
+    400098: G_Control
+    400100: G_DKChanTrai
+    400102: G_KhuyChan
+    400104: G_KhuyChan_Phai
+    400106: G_Model
+    400108: G_NgonCai
+    400110: G_NgonCai 1
+    400112: G_NgonCai 2
+    400114: G_NgonCai 3
+    400116: G_NgonCai_Trai
+    400118: G_NgonDanh
+    400120: G_NgonDanh 1
+    400122: G_NgonDanh 2
+    400124: G_NgonDanh 3
+    400126: G_NgonDanh_Trai
+    400128: G_NgonGiua
+    400130: G_NgonGiua 1
+    400132: G_NgonGiua 2
+    400134: G_NgonGiua 3
+    400136: G_NgonGiua_Trai
+    400138: G_NgonTro
+    400140: G_NgonTro 1
+    400142: G_NgonTro 2
+    400144: G_NgonTro 3
+    400146: G_NgonTro_Trai
+    400148: G_NgonUt
+    400150: G_NgonUt 1
+    400152: G_NgonUt 2
+    400154: G_NgonUt 3
+    400156: G_NgonUt_Trai
+    400158: G_OngTayTrai
+    400160: G_OngTayTrai 1
+    400162: G_OngTayTrai 2
+    400164: G_Rang
+    400166: G_RangDuoi
+    400168: G_RangTren
+    400170: G_Tay
+    400172: G_TayPhai
+    400174: G_TayTrai
+    400176: G_TayTrai1
+    400178: group17
+    400180: group18
+    400182: group19
+    400184: group20
+    400186: Group34
+    400188: Group35
+    400190: group5
+    400192: ikHandle1
+    400194: ikHandle5
+    400196: ikHandle6
+    400198: ikHandle7
+    400200: j_NgonCaiPhai1
+    400202: j_NgonCaiPhai2
+    400204: j_NgonCaiPhai3
+    400206: j_NgonCaiPhai4
+    400208: j_NgonCaiTrai1
+    400210: j_NgonCaiTrai2
+    400212: j_NgonCaiTrai3
+    400214: j_NgonDanhPhai1
+    400216: j_NgonDanhPhai2
+    400218: j_NgonDanhPhai3
+    400220: j_NgonDanhPhai4
+    400222: j_NgonDanhPhai5
+    400224: j_NgonDanhTrai1
+    400226: j_NgonDanhTrai2
+    400228: j_NgonDanhTrai3
+    400230: j_NgonDanhTrai4
+    400232: j_NgonDanhTrai5
+    400234: j_NgonGiuaPhai1
+    400236: j_NgonGiuaPhai2
+    400238: j_NgonGiuaPhai3
+    400240: j_NgonGiuaPhai4
+    400242: j_NgonGiuaPhai5
+    400244: j_NgonGiuaTrai1
+    400246: j_NgonGiuaTrai2
+    400248: j_NgonGiuaTrai3
+    400250: j_NgonGiuaTrai4
+    400252: j_NgonGiuaTrai5
+    400254: j_NgonTroPhai1
+    400256: j_NgonTroPhai2
+    400258: j_NgonTroPhai3
+    400260: j_NgonTroPhai4
+    400262: j_NgonTroPhai5
+    400264: j_NgonTroTrai1
+    400266: j_NgonTroTrai2
+    400268: j_NgonTroTrai3
+    400270: j_NgonTroTrai4
+    400272: j_NgonTroTrai5
+    400274: j_NgonUtPhai1
+    400276: j_NgonUtPhai2
+    400278: j_NgonUtPhai3
+    400280: j_NgonUtPhai4
+    400282: j_NgonUtPhai5
+    400284: j_NgonUtTrai1
+    400286: j_NgonUtTrai2
+    400288: j_NgonUtTrai3
+    400290: j_NgonUtTrai4
+    400292: j_NgonUtTrai5
+    400294: jBanChanPhai1
+    400296: jBanChanPhai2
+    400298: jBanTayPhai
+    400300: jBanTayTrai
+    400302: jChanPhai1
+    400304: jChanPhai2
+    400306: jChoTayPhai
+    400308: jChoTayTrai
+    400310: jCo
+    400312: jGoiChanPhai1
+    400314: jGoiChanPhai2
+    400316: jGotChanPhai1
+    400318: jGotChanPhai2
+    400320: jHamDuoi
+    400322: jMain
+    400324: jNgonCaiPhai1
+    400326: jNgonCaiPhai2
+    400328: jNgonCaiPhai3
+    400330: jNgonCaiPhai4
+    400332: jNgonCaiTrai1
+    400334: jNgonCaiTrai2
+    400336: jNgonCaiTrai3
+    400338: jNgonCaiTrai4
+    400340: jNgonDanhPhai1
+    400342: jNgonDanhPhai2
+    400344: jNgonDanhPhai3
+    400346: jNgonDanhPhai4
+    400348: jNgonDanhPhai5
+    400350: jNgonDanhTrai1
+    400352: jNgonDanhTrai2
+    400354: jNgonDanhTrai3
+    400356: jNgonDanhTrai4
+    400358: jNgonDanhTrai5
+    400360: jNgonGiuaPhai1
+    400362: jNgonGiuaPhai2
+    400364: jNgonGiuaPhai3
+    400366: jNgonGiuaPhai4
+    400368: jNgonGiuaPhai5
+    400370: jNgonGiuaTrai1
+    400372: jNgonGiuaTrai2
+    400374: jNgonGiuaTrai3
+    400376: jNgonGiuaTrai4
+    400378: jNgonGiuaTrai5
+    400380: jNgonTroPhai1
+    400382: jNgonTroPhai2
+    400384: jNgonTroPhai3
+    400386: jNgonTroPhai4
+    400388: jNgonTroPhai5
+    400390: jNgonTroTrai1
+    400392: jNgonTroTrai2
+    400394: jNgonTroTrai3
+    400396: jNgonTroTrai4
+    400398: jNgonTroTrai5
+    400400: jNgonUtPhai1
+    400402: jNgonUtPhai2
+    400404: jNgonUtPhai3
+    400406: jNgonUtPhai4
+    400408: jNgonUtPhai5
+    400410: jNgonUtTrai1
+    400412: jNgonUtTrai2
+    400414: jNgonUtTrai3
+    400416: jNgonUtTrai4
+    400418: jNgonUtTrai5
+    400420: joint13
+    400422: joint2
+    400424: joint3
+    400426: joint4
+    400428: joint5
+    400430: joint6
+    400432: joint7
+    400434: joint8
+    400436: joint96
+    400438: jSo
+    400440: jVai
+    400442: jVaiTayTrai
+    400444: jVaiTrai
+    400446: left
+    400448: lt_KhopSauGoiTrai1
+    400450: lt_KhopSauGoiTrai2
+    400452: //RootNode
+    400454: MainMove
+    400456: mv_BanTayPhai
+    400458: mv_BanTayTrai
+    400460: mv_ChanPhai
+    400462: mv_ChanTrai
+    400464: mv_ChoPhai
+    400466: mv_ChoTrai
+    400468: mv_VaiPhai
+    400470: mv_VaiTrai
+    400472: mv_XuongChau
+    400474: pCube13
+    400476: pCube13 1
+    400478: pCube13 2
+    400480: pCube13 3
+    400482: pCube14
+    400484: pCube14 1
+    400486: pCube15
+    400488: pCube16
+    400490: pCube16 1
+    400492: pCube17
+    400494: pCube17 1
+    400496: pCube17 2
+    400498: pCube3
+    400500: pCube3 1
+    400502: pCube3 2
+    400504: pCube3 3
+    400506: pCylinder34
+    400508: pCylinder34 1
+    400510: pCylinder34 2
+    400512: pCylinder34 3
+    400514: pCylinder35
+    400516: pCylinder35 1
+    400518: pCylinder35 2
+    400520: pCylinder35 3
+    400522: pCylinder35 4
+    400524: pCylinder35 5
+    400526: pCylinder35 6
+    400528: pCylinder35 7
+    400530: pCylinder36
+    400532: pCylinder36 1
+    400534: pCylinder36 2
+    400536: pCylinder36 3
+    400538: pCylinder36 4
+    400540: pCylinder36 5
+    400542: pCylinder37
+    400544: pCylinder37 1
+    400546: pCylinder37 2
+    400548: pCylinder37 3
+    400550: pCylinder37 4
+    400552: pCylinder38
+    400554: pCylinder38 1
+    400556: pCylinder38 2
+    400558: pCylinder38 3
+    400560: pCylinder39
+    400562: pCylinder39 1
+    400564: pCylinder39 2
+    400566: pCylinder40
+    400568: pCylinder40 1
+    400570: pCylinder41
+    400572: pCylinder41 1
+    400574: pCylinder41 2
+    400576: rt_ChanTruocGotTrai1
+    400578: s_Dau
+    400580: s_XuongChau
+    400582: XuongSong
+    400584: XuongSuon
+    4300000: pCube3
+    4300002: pCube13
+    4300004: pCube14
+    4300006: pCube17
+    4300008: pCube3
+    4300010: pCube13
+    4300012: pCube14
+    4300014: pCube16
+    4300016: pCube17
+    4300018: pCube15
+    4300020: pCube13
+    4300022: pCube3
+    4300024: pCube17
+    4300026: pCube16
+    4300028: pCube13
+    4300030: pCube3
+    4300032: pCylinder35
+    4300034: pCylinder37
+    4300036: pCylinder41
+    4300038: BoXuong06_01:Group26
+    4300040: BoXuong06_01:Group27
+    4300042: BoXuong06_01:Group28
+    4300044: BoXuong06_01:Group63
+    4300046: BoXuong06_01:Group64
+    4300048: BoXuong06_01:Group65
+    4300050: pCylinder39
+    4300052: pCylinder35
+    4300054: pCylinder34
+    4300056: pCylinder37
+    4300058: pCylinder38
+    4300060: pCylinder35
+    4300062: pCylinder34
+    4300064: pCylinder37
+    4300066: pCylinder38
+    4300068: pCylinder35
+    4300070: pCylinder34
+    4300072: pCylinder37
+    4300074: BoXuong06_01:Group30
+    4300076: BoXuong06_01:Group31
+    4300078: BoXuong06_01:Group32
+    4300080: BoXuong06_01:Group66
+    4300082: BoXuong06_01:Group67
+    4300084: BoXuong06_01:Group68
+    4300086: pCylinder36
+    4300088: pCylinder35
+    4300090: pCylinder41
+    4300092: pCylinder40
+    4300094: pCylinder36
+    4300096: pCylinder35
+    4300098: pCylinder39
+    4300100: pCylinder38
+    4300102: pCylinder36
+    4300104: pCylinder35
+    4300106: pCylinder37
+    4300108: pCylinder34
+    4300110: BoXuong06_01:Group34
+    4300112: BoXuong06_01:Group35
+    4300114: pCylinder36
+    4300116: pCylinder41
+    4300118: pCylinder36
+    4300120: pCylinder40
+    4300122: pCylinder39
+    4300124: pCylinder38
+    4300126: pCylinder36
+    4300128: pCylinder35
+    4300130: Group34
+    4300132: Group35
+    4300134: s_XuongChau
+    4300136: s_Dau
+    4300138: BoXuong06_01:Group43
+    4300140: BoXuong06_01:Group45
+    4300142: BoXuong06_01:Group47
+    4300144: BoXuong06_01:Group49
+    4300146: BoXuong06_01:Group51
+    4300148: BoXuong06_01:Group52
+    4300150: BoXuong06_01:Group53
+    4300152: BoXuong06_01:Group55
+    4300154: BoXuong06_01:Group57
+    4300156: BoXuong06_01:Group59
+    4300158: BoXuong06_01:Group61
+    4300160: BoXuong06_01:Group41
+    4300162: BoXuong06_01:Group37
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BoXuong06_01:Group26
+    13700002: BoXuong06_01:Group27
+    13700004: BoXuong06_01:Group28
+    13700006: BoXuong06_01:Group30
+    13700008: BoXuong06_01:Group31
+    13700010: BoXuong06_01:Group32
+    13700012: BoXuong06_01:Group34
+    13700014: BoXuong06_01:Group35
+    13700016: BoXuong06_01:Group37
+    13700018: BoXuong06_01:Group41
+    13700020: BoXuong06_01:Group43
+    13700022: BoXuong06_01:Group45
+    13700024: BoXuong06_01:Group47
+    13700026: BoXuong06_01:Group49
+    13700028: BoXuong06_01:Group51
+    13700030: BoXuong06_01:Group52
+    13700032: BoXuong06_01:Group53
+    13700034: BoXuong06_01:Group55
+    13700036: BoXuong06_01:Group57
+    13700038: BoXuong06_01:Group59
+    13700040: BoXuong06_01:Group61
+    13700042: BoXuong06_01:Group63
+    13700044: BoXuong06_01:Group64
+    13700046: BoXuong06_01:Group65
+    13700048: BoXuong06_01:Group66
+    13700050: BoXuong06_01:Group67
+    13700052: BoXuong06_01:Group68
+    13700054: Group34
+    13700056: Group35
+    13700058: pCube13
+    13700060: pCube13 1
+    13700062: pCube13 2
+    13700064: pCube13 3
+    13700066: pCube14
+    13700068: pCube14 1
+    13700070: pCube15
+    13700072: pCube16
+    13700074: pCube16 1
+    13700076: pCube17
+    13700078: pCube17 1
+    13700080: pCube17 2
+    13700082: pCube3
+    13700084: pCube3 1
+    13700086: pCube3 2
+    13700088: pCube3 3
+    13700090: pCylinder34
+    13700092: pCylinder34 1
+    13700094: pCylinder34 2
+    13700096: pCylinder34 3
+    13700098: pCylinder35
+    13700100: pCylinder35 1
+    13700102: pCylinder35 2
+    13700104: pCylinder35 3
+    13700106: pCylinder35 4
+    13700108: pCylinder35 5
+    13700110: pCylinder35 6
+    13700112: pCylinder35 7
+    13700114: pCylinder36
+    13700116: pCylinder36 1
+    13700118: pCylinder36 2
+    13700120: pCylinder36 3
+    13700122: pCylinder36 4
+    13700124: pCylinder36 5
+    13700126: pCylinder37
+    13700128: pCylinder37 1
+    13700130: pCylinder37 2
+    13700132: pCylinder37 3
+    13700134: pCylinder37 4
+    13700136: pCylinder38
+    13700138: pCylinder38 1
+    13700140: pCylinder38 2
+    13700142: pCylinder38 3
+    13700144: pCylinder39
+    13700146: pCylinder39 1
+    13700148: pCylinder39 2
+    13700150: pCylinder40
+    13700152: pCylinder40 1
+    13700154: pCylinder41
+    13700156: pCylinder41 1
+    13700158: pCylinder41 2
+    13700160: s_Dau
+    13700162: s_XuongChau
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - back
+    - back1
+    - bottom
+    - jMain
+    - ikHandle1
+    - MainMove
+    - left
+    - ikHandle5
+    - ikHandle6
+    - ikHandle7
+    - G_Model/G_Rang
+    - G_Model/G_Chan
+    - G_Model/G_Tay
+    - G_Model/s_XuongChau
+    - G_Model/XuongSong
+    - G_Model/XuongSuon
+    - G_Model/XuongSuon/BoXuong06_01:Group43
+    - G_Model/XuongSuon/BoXuong06_01:Group45
+    - jMain/joint2
+    - jMain/jChanPhai1
+    - jMain/jChanPhai2
+    - jMain/jChanPhai2/jGoiChanPhai2
+    - jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2
+    - MainMove/mv_XuongChau
+    - MainMove/mv_ChanPhai
+    - MainMove/G_Control
+    - MainMove/mv_ChanTrai
+    - MainMove/mv_ChoTrai
+    - MainMove/mv_BanTayTrai
+    - MainMove/mv_ChoPhai
+    - MainMove/mv_BanTayPhai
+    - MainMove/mv_XuongChau/CotSong1
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: back1
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: G_Model
+        weight: 1
+      - path: G_Model/G_Chan
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_KhuyChan_Phai
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_KhuyChan_Phai/BoXuong06_01:Group26
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_KhuyChan_Phai/BoXuong06_01:Group27
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_KhuyChan_Phai/BoXuong06_01:Group28
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_KhuyChan_Phai/BoXuong06_01:Group63
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_KhuyChan_Phai/BoXuong06_01:Group64
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_KhuyChan_Phai/BoXuong06_01:Group65
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_NgonCai
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_NgonCai/pCylinder35
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_NgonCai/pCylinder37
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_NgonCai/pCylinder41
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_NgonDanh
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_NgonGiua
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_NgonTro
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanPhai/G_NgonUt
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_KhuyChan
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_KhuyChan/BoXuong06_01:Group30
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_KhuyChan/BoXuong06_01:Group31
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_KhuyChan/BoXuong06_01:Group32
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_KhuyChan/BoXuong06_01:Group66
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_KhuyChan/BoXuong06_01:Group67
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_KhuyChan/BoXuong06_01:Group68
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonCai_Trai
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonDanh_Trai
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonDanh_Trai/pCylinder34
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonDanh_Trai/pCylinder35 1
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonDanh_Trai/pCylinder37 1
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonDanh_Trai/pCylinder38
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonGiua_Trai
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonGiua_Trai/pCylinder34 1
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonGiua_Trai/pCylinder35 2
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonGiua_Trai/pCylinder37 2
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonGiua_Trai/pCylinder39
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonTro_Trai
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonUt_Trai
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonUt_Trai/pCylinder34 2
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonUt_Trai/pCylinder35 3
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonUt_Trai/pCylinder37 3
+        weight: 1
+      - path: G_Model/G_Chan/G_ChanTrai/G_NgonUt_Trai/pCylinder38 1
+        weight: 1
+      - path: G_Model/G_Rang
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group5
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group5/pCube3 1
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group5/pCube13 1
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group5/pCube14 1
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group5/pCube17
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group20
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group20/pCube3
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group20/pCube13
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group20/pCube14
+        weight: 1
+      - path: G_Model/G_Rang/G_RangDuoi/group20/pCube16
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group18
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group18/pCube3 2
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group18/pCube13 2
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group18/pCube15
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group18/pCube17 1
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group19
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group19/pCube3 3
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group19/pCube13 3
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group19/pCube16 1
+        weight: 1
+      - path: G_Model/G_Rang/G_RangTren/group17/group19/pCube17 2
+        weight: 1
+      - path: G_Model/G_Tay
+        weight: 1
+      - path: G_Model/G_Tay/G_TayPhai
+        weight: 1
+      - path: G_Model/G_Tay/G_TayPhai/G_BanTayTrai
+        weight: 1
+      - path: G_Model/G_Tay/G_TayPhai/G_BanTayTrai/G_NgonCai 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayPhai/G_BanTayTrai/G_NgonDanh 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayPhai/G_BanTayTrai/G_NgonGiua 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayPhai/G_BanTayTrai/G_NgonTro 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayPhai/G_BanTayTrai/G_NgonUt 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayPhai/G_OngTayTrai
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/BoXuong06_01:Group34
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/BoXuong06_01:Group35
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonCai 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonCai 2/pCylinder34 3
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonCai 2/pCylinder35 4
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonCai 2/pCylinder36
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonCai 2/pCylinder37 4
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonDanh 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonDanh 2/pCylinder35 5
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonDanh 2/pCylinder36 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonDanh 2/pCylinder39 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonGiua 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonGiua 2/pCylinder40
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonTro 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonTro 2/pCylinder35 6
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonTro 2/pCylinder36 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonTro 2/pCylinder41 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonUt 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_BanTayTrai 1/G_NgonUt 2/pCylinder38 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai/G_OngTayTrai 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonCai 3
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonCai 3/pCylinder35 7
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonCai 3/pCylinder36 3
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonDanh 3
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonDanh 3/pCylinder39 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonGiua 3
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonGiua 3/pCylinder36 4
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonGiua 3/pCylinder40 1
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonTro 3
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonTro 3/pCylinder36 5
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonTro 3/pCylinder41 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonUt 3
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_BanTayTrai 2/G_NgonUt 3/pCylinder38 3
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/G_OngTayTrai 2
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/Group34
+        weight: 1
+      - path: G_Model/G_Tay/G_TayTrai1/Group35
+        weight: 1
+      - path: G_Model/s_Dau
+        weight: 1
+      - path: G_Model/s_XuongChau
+        weight: 1
+      - path: G_Model/XuongSong
+        weight: 1
+      - path: G_Model/XuongSuon
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group37
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group41
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group43
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group45
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group47
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group49
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group51
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group52
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group53
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group55
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group57
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group59
+        weight: 1
+      - path: G_Model/XuongSuon/BoXuong06_01:Group61
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle5
+        weight: 1
+      - path: ikHandle6
+        weight: 1
+      - path: ikHandle7
+        weight: 1
+      - path: jMain
+        weight: 1
+      - path: jMain/jChanPhai1
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/Codot11
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/G_DKChanTrai
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonCaiTrai1
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonCaiTrai1/jNgonCaiTrai2
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonCaiTrai1/jNgonCaiTrai2/jNgonCaiTrai3
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonCaiTrai1/jNgonCaiTrai2/jNgonCaiTrai3/jNgonCaiTrai4
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonDanhTrai1
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonDanhTrai1/jNgonDanhTrai2
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonDanhTrai1/jNgonDanhTrai2/jNgonDanhTrai3
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonDanhTrai1/jNgonDanhTrai2/jNgonDanhTrai3/jNgonDanhTrai4
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonDanhTrai1/jNgonDanhTrai2/jNgonDanhTrai3/jNgonDanhTrai4/jNgonDanhTrai5
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonGiuaTrai1
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonGiuaTrai1/jNgonGiuaTrai2
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonGiuaTrai1/jNgonGiuaTrai2/jNgonGiuaTrai3
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonGiuaTrai1/jNgonGiuaTrai2/jNgonGiuaTrai3/jNgonGiuaTrai4
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonGiuaTrai1/jNgonGiuaTrai2/jNgonGiuaTrai3/jNgonGiuaTrai4/jNgonGiuaTrai5
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonTroTrai1
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonTroTrai1/jNgonTroTrai2
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonTroTrai1/jNgonTroTrai2/jNgonTroTrai3
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonTroTrai1/jNgonTroTrai2/jNgonTroTrai3/jNgonTroTrai4
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonTroTrai1/jNgonTroTrai2/jNgonTroTrai3/jNgonTroTrai4/jNgonTroTrai5
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonUtTrai1
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonUtTrai1/jNgonUtTrai2
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonUtTrai1/jNgonUtTrai2/jNgonUtTrai3
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonUtTrai1/jNgonUtTrai2/jNgonUtTrai3/jNgonUtTrai4
+        weight: 1
+      - path: jMain/jChanPhai1/jGoiChanPhai1/jGotChanPhai1/jBanChanPhai1/jNgonUtTrai1/jNgonUtTrai2/jNgonUtTrai3/jNgonUtTrai4/jNgonUtTrai5
+        weight: 1
+      - path: jMain/jChanPhai2
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/Codot12
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/G_ChanPhai
+          1
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonCaiPhai1
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonCaiPhai1/jNgonCaiPhai2
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonCaiPhai1/jNgonCaiPhai2/jNgonCaiPhai3
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonCaiPhai1/jNgonCaiPhai2/jNgonCaiPhai3/jNgonCaiPhai4
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonDanhPhai1
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonDanhPhai1/jNgonDanhPhai2
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonDanhPhai1/jNgonDanhPhai2/jNgonDanhPhai3
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonDanhPhai1/jNgonDanhPhai2/jNgonDanhPhai3/jNgonDanhPhai4
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonDanhPhai1/jNgonDanhPhai2/jNgonDanhPhai3/jNgonDanhPhai4/jNgonDanhPhai5
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonGiuaPhai1
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonGiuaPhai1/jNgonGiuaPhai2
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonGiuaPhai1/jNgonGiuaPhai2/jNgonGiuaPhai3
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonGiuaPhai1/jNgonGiuaPhai2/jNgonGiuaPhai3/jNgonGiuaPhai4
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonGiuaPhai1/jNgonGiuaPhai2/jNgonGiuaPhai3/jNgonGiuaPhai4/jNgonGiuaPhai5
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonTroPhai1
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonTroPhai1/jNgonTroPhai2
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonTroPhai1/jNgonTroPhai2/jNgonTroPhai3
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonTroPhai1/jNgonTroPhai2/jNgonTroPhai3/jNgonTroPhai4
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonTroPhai1/jNgonTroPhai2/jNgonTroPhai3/jNgonTroPhai4/jNgonTroPhai5
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonUtPhai1
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonUtPhai1/jNgonUtPhai2
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonUtPhai1/jNgonUtPhai2/jNgonUtPhai3
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonUtPhai1/jNgonUtPhai2/jNgonUtPhai3/jNgonUtPhai4
+        weight: 1
+      - path: jMain/jChanPhai2/jGoiChanPhai2/jGotChanPhai2/jBanChanPhai2/jNgonUtPhai1/jNgonUtPhai2/jNgonUtPhai3/jNgonUtPhai4/jNgonUtPhai5
+        weight: 1
+      - path: jMain/joint2
+        weight: 1
+      - path: jMain/joint2/joint3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jCo
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jCo/jSo
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jCo/jSo/jHamDuoi
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jCo/jSo/joint13
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jCo/jSo/rt_ChanTruocGotTrai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonCaiTrai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonCaiTrai1/j_NgonCaiTrai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonCaiTrai1/j_NgonCaiTrai2/j_NgonCaiTrai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonCaiTrai1/j_NgonCaiTrai2/j_NgonCaiTrai3/joint96
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonDanhTrai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonDanhTrai1/j_NgonDanhTrai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonDanhTrai1/j_NgonDanhTrai2/j_NgonDanhTrai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonDanhTrai1/j_NgonDanhTrai2/j_NgonDanhTrai3/j_NgonDanhTrai4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonDanhTrai1/j_NgonDanhTrai2/j_NgonDanhTrai3/j_NgonDanhTrai4/j_NgonDanhTrai5
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonGiuaTrai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonGiuaTrai1/j_NgonGiuaTrai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonGiuaTrai1/j_NgonGiuaTrai2/j_NgonGiuaTrai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonGiuaTrai1/j_NgonGiuaTrai2/j_NgonGiuaTrai3/j_NgonGiuaTrai4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonGiuaTrai1/j_NgonGiuaTrai2/j_NgonGiuaTrai3/j_NgonGiuaTrai4/j_NgonGiuaTrai5
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonTroTrai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonTroTrai1/j_NgonTroTrai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonTroTrai1/j_NgonTroTrai2/j_NgonTroTrai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonTroTrai1/j_NgonTroTrai2/j_NgonTroTrai3/j_NgonTroTrai4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonTroTrai1/j_NgonTroTrai2/j_NgonTroTrai3/j_NgonTroTrai4/j_NgonTroTrai5
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonUtTrai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonUtTrai1/j_NgonUtTrai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonUtTrai1/j_NgonUtTrai2/j_NgonUtTrai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonUtTrai1/j_NgonUtTrai2/j_NgonUtTrai3/j_NgonUtTrai4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTayTrai/jChoTayTrai/jBanTayTrai/j_NgonUtTrai1/j_NgonUtTrai2/j_NgonUtTrai3/j_NgonUtTrai4/j_NgonUtTrai5
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonCaiPhai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonCaiPhai1/j_NgonCaiPhai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonCaiPhai1/j_NgonCaiPhai2/j_NgonCaiPhai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonCaiPhai1/j_NgonCaiPhai2/j_NgonCaiPhai3/j_NgonCaiPhai4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonDanhPhai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonDanhPhai1/j_NgonDanhPhai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonDanhPhai1/j_NgonDanhPhai2/j_NgonDanhPhai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonDanhPhai1/j_NgonDanhPhai2/j_NgonDanhPhai3/j_NgonDanhPhai4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonDanhPhai1/j_NgonDanhPhai2/j_NgonDanhPhai3/j_NgonDanhPhai4/j_NgonDanhPhai5
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonGiuaPhai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonGiuaPhai1/j_NgonGiuaPhai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonGiuaPhai1/j_NgonGiuaPhai2/j_NgonGiuaPhai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonGiuaPhai1/j_NgonGiuaPhai2/j_NgonGiuaPhai3/j_NgonGiuaPhai4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonGiuaPhai1/j_NgonGiuaPhai2/j_NgonGiuaPhai3/j_NgonGiuaPhai4/j_NgonGiuaPhai5
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonTroPhai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonTroPhai1/j_NgonTroPhai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonTroPhai1/j_NgonTroPhai2/j_NgonTroPhai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonTroPhai1/j_NgonTroPhai2/j_NgonTroPhai3/j_NgonTroPhai4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonTroPhai1/j_NgonTroPhai2/j_NgonTroPhai3/j_NgonTroPhai4/j_NgonTroPhai5
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonUtPhai1
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonUtPhai1/j_NgonUtPhai2
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonUtPhai1/j_NgonUtPhai2/j_NgonUtPhai3
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonUtPhai1/j_NgonUtPhai2/j_NgonUtPhai3/j_NgonUtPhai4
+        weight: 1
+      - path: jMain/joint2/joint3/joint4/joint5/joint6/joint7/joint8/jVai/jVaiTrai/jChoTayPhai/jBanTayPhai/j_NgonUtPhai1/j_NgonUtPhai2/j_NgonUtPhai3/j_NgonUtPhai4/j_NgonUtPhai5
+        weight: 1
+      - path: left
+        weight: 1
+      - path: MainMove
+        weight: 1
+      - path: MainMove/G_Control
+        weight: 1
+      - path: MainMove/G_Control/lt_KhopSauGoiTrai1
+        weight: 1
+      - path: MainMove/G_Control/lt_KhopSauGoiTrai2
+        weight: 1
+      - path: MainMove/mv_BanTayPhai
+        weight: 1
+      - path: MainMove/mv_BanTayTrai
+        weight: 1
+      - path: MainMove/mv_ChanPhai
+        weight: 1
+      - path: MainMove/mv_ChanTrai
+        weight: 1
+      - path: MainMove/mv_ChoPhai
+        weight: 1
+      - path: MainMove/mv_ChoTrai
+        weight: 1
+      - path: MainMove/mv_XuongChau
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3/CotSong4
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3/CotSong4/CotSong5
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3/CotSong4/CotSong5/CotSong6
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3/CotSong4/CotSong5/CotSong6/CotSong7
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3/CotSong4/CotSong5/CotSong6/CotSong7/CotSong8
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3/CotSong4/CotSong5/CotSong6/CotSong7/CotSong8/CotSong9
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3/CotSong4/CotSong5/CotSong6/CotSong7/CotSong8/CotSong9/Codot10
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3/CotSong4/CotSong5/CotSong6/CotSong7/CotSong8/mv_VaiPhai
+        weight: 1
+      - path: MainMove/mv_XuongChau/CotSong1/CotSong2/CotSong3/CotSong4/CotSong5/CotSong6/CotSong7/CotSong8/mv_VaiTrai
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
